@@ -1,10 +1,12 @@
+> 2026-09-18: The card display name now uses the [official Japanese title](https://pjsekai.sega.jp/), 「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」, in [v2026.09.18.2](https://github.com/eumenes12ds/pjsk-jp/tree/v2026.09.18.2). The avatar filename and worldbook binding remain unchanged for existing chats.
+
 > 2026-09-18: Opening option 6 now opens the story selector in the status panel below. Available in [v2026.09.18.1](https://github.com/eumenes12ds/pjsk-jp/tree/v2026.09.18.1). See [details](OPENING-STORY-20260918.md).
 
 > 2026-09-17: Ken display names and opening dates corrected in [v2026.09.17.2](https://github.com/eumenes12ds/pjsk-jp/tree/v2026.09.17.2). See [repair details](REPAIR-20260917.md).
 
 > 2026-09-17: Japanese names, event banners and runtime dependencies updated in [v2026.09.17.1](https://github.com/eumenes12ds/pjsk-jp/tree/v2026.09.17.1). See [audit details](AUDIT-20260917.md).
 
-# pjsk-jp
+# プロジェクトセカイ カラフルステージ！ feat. 初音ミク
 
 『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』を題材にした **SillyTavern 用キャラクターカード（日本語ユーザー向け版）** です。
 
