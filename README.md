@@ -1,3 +1,5 @@
+> 2026-09-17: Ken display names and opening dates corrected in [v2026.09.17.2](https://github.com/eumenes12ds/pjsk-jp/tree/v2026.09.17.2). See [repair details](REPAIR-20260917.md).
+
 > 2026-09-17: Japanese names, event banners and runtime dependencies updated in [v2026.09.17.1](https://github.com/eumenes12ds/pjsk-jp/tree/v2026.09.17.1). See [audit details](AUDIT-20260917.md).
 
 # pjsk-jp
