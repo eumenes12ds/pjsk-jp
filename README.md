@@ -1,3 +1,5 @@
+> 2026-09-17: Japanese names, event banners and runtime dependencies updated in [v2026.09.17.1](https://github.com/eumenes12ds/pjsk-jp/tree/v2026.09.17.1). See [audit details](AUDIT-20260917.md).
+
 # pjsk-jp
 
 『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』を題材にした **SillyTavern 用キャラクターカード（日本語ユーザー向け版）** です。

@@ -1,0 +1,1685 @@
+{
+  "release": "v2026.09.17.1",
+  "gameMasterRevision": "2102bae3289aed3b55a5e887401f50a17c83baac",
+  "notice": "Game illustrations, banners and names belong to SEGA, Colorful Palette and the respective rights holders. Mirroring does not transfer ownership. 208 banners come from the public Sekai World JP game-asset mirror, 1 banner from AppMedia, and the key visual directly from the official project site. Original image bytes preserved.",
+  "assets": [
+    {
+      "path": "image/story/ln/ick_banner_event_1.webp",
+      "eventId": 34,
+      "title": "Knock the Future!!",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_future_2021/event_future_2021.webp",
+      "sha256": "07cbde390bdc94e9b6410b3fb5fe529a514be5b542e3e2fb266f01c73685ef70",
+      "bytes": 20752
+    },
+    {
+      "path": "image/story/ln/ick_banner_event_2.webp",
+      "eventId": 56,
+      "title": "Live with memories",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_memories_2022/event_memories_2022.webp",
+      "sha256": "5d66dac27bc27a4b75cee7e988bc8a4a77e8a0325ef5e39b0e86e9a94d373c68",
+      "bytes": 25494
+    },
+    {
+      "path": "image/story/ln/ick_banner_event_3.webp",
+      "eventId": 77,
+      "title": "願いは、いつか朝をこえて",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wish_2022/event_wish_2022.webp",
+      "sha256": "4a251fe0b61ea860bf9f5e1f7bd1b8dd1da7e16cf4219fcf8775ad28dbe0e743",
+      "bytes": 20296
+    },
+    {
+      "path": "image/story/ln/ick_banner_event_4.webp",
+      "eventId": 101,
+      "title": "つなぐ、星の歌",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_connect_2023/event_connect_2023.webp",
+      "sha256": "cdbf2cb2ebd2f7d9ea1e120ec84b7fa762a1dd9a706bb37a9593556ae455120a",
+      "bytes": 22220
+    },
+    {
+      "path": "image/story/ln/banner_ln_WL_1.webp",
+      "eventId": 137,
+      "title": "あの日見た夜空は、いつかの未来へ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_nightsky_2024/event_nightsky_2024.webp",
+      "sha256": "795a91e6fccbd26a8c839da641875af1181e0140968bb719c614da59ea8920fa",
+      "bytes": 16948
+    },
+    {
+      "path": "image/story/ln/ick_banner_event_5.webp",
+      "eventId": 143,
+      "title": "This moment with you！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_moment_2024/event_moment_2024.webp",
+      "sha256": "270db9d4b2f87a86c77adbc58f819248ec42296eee68f90af25a14bec5a3a3bf",
+      "bytes": 22186
+    },
+    {
+      "path": "image/story/ln/banner_ln_WL_2.webp",
+      "eventId": 171,
+      "title": "ordinary,yet special us",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wl_2nd_lightsound_2025/event_wl_2nd_lightsound_2025.webp",
+      "sha256": "68c54754bfd9cb60824de70bfef51e7e1cd2e1a7161b73bce6cc4c290de401aa",
+      "bytes": 16358
+    },
+    {
+      "path": "image/story/ln/ick_banner_event_6.webp",
+      "eventId": 182,
+      "title": "君と繋ぐHeart Beat",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_heartbeat_2025/event_heartbeat_2025.webp",
+      "sha256": "f05c4ccc92664b313092c2055dcf421802c1528b20e2f1bf39f35ef7c93a5b38",
+      "bytes": 20784
+    },
+    {
+      "path": "image/story/ln/ick_banner_event_7.webp",
+      "eventId": 212,
+      "title": "Echo of a Prayer",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_ofprayer_2026/event_ofprayer_2026.webp",
+      "sha256": "69c4d6d0439488d40e5a24765f253ae81735d54cb22983cdd382f189e558a15a",
+      "bytes": 19270
+    },
+    {
+      "path": "image/story/ln/saki_banner_event_1.webp",
+      "eventId": 1,
+      "title": "雨上がりの一番星",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_stella_2020/event_stella_2020.webp",
+      "sha256": "dd5d88df356a75938984f00b36a214364f83217fee485229da1d4a754d0f5e6a",
+      "bytes": 21248
+    },
+    {
+      "path": "image/story/ln/saki_banner_event_2.webp",
+      "eventId": 27,
+      "title": "Unnamed Harmony",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_unnamed_2021/event_unnamed_2021.webp",
+      "sha256": "2f53eb037f7f139ecd57e3f5a0b7d029260cdfe7f9ca37a3ec3c42eaaabe00fe",
+      "bytes": 23450
+    },
+    {
+      "path": "image/story/ln/saki_banner_event_3.webp",
+      "eventId": 65,
+      "title": "No seek No find",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_noseek_2022/event_noseek_2022.webp",
+      "sha256": "c7667226bf62fc167c1194c7f7a1d1610e8d614e429ea38b97d5e67945c3295d",
+      "bytes": 17228
+    },
+    {
+      "path": "image/story/ln/saki_banner_event_4.webp",
+      "eventId": 91,
+      "title": "Get over it.",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_getover_2023/event_getover_2023.webp",
+      "sha256": "97460fba984d5e6b446f9b3f471e830fc8a2d6227737eadd9d9dd801195a6e78",
+      "bytes": 21972
+    },
+    {
+      "path": "image/story/ln/saki_banner_event_5.webp",
+      "eventId": 128,
+      "title": "Parallel Harmonies",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_parallel_2024/event_parallel_2024.webp",
+      "sha256": "8eff3ef7c472a81081cc1228d1b2ea411fc35e92574c8026e4631f67feec7690",
+      "bytes": 18426
+    },
+    {
+      "path": "image/story/ln/saki_banner_event_6.webp",
+      "eventId": 147,
+      "title": "Happy Enjoy Music！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_enjoymusic_2024/event_enjoymusic_2024.webp",
+      "sha256": "9eb428936ab6dfdb387b7c595eea211aa40ba036f2d6f9d976f655ebc8d25177",
+      "bytes": 25118
+    },
+    {
+      "path": "image/story/ln/saki_banner_event_7.webp",
+      "eventId": 188,
+      "title": "仰ぐ夜空に、星は紛れて",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_lookup_2025/event_lookup_2025.webp",
+      "sha256": "b83f091f97b7bd271db1a63ff5f7ecfdc01bd51adf0ddb2c80a9d7ca6fdde370",
+      "bytes": 21272
+    },
+    {
+      "path": "image/story/ln/hnm_banner_event_1.webp",
+      "eventId": 10,
+      "title": "揺れるまま、でも君は前へ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_hareomatsu_2021/event_hareomatsu_2021.webp",
+      "sha256": "097df9c07977d039f09b19333436a9056d727064052f6eae2c7e2b6855bdaa9c",
+      "bytes": 19302
+    },
+    {
+      "path": "image/story/ln/hnm_banner_event_2.webp",
+      "eventId": 40,
+      "title": "揺るがぬ想い、今言葉にして",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_stage_2021/event_stage_2021.webp",
+      "sha256": "3d26235380a3bcf83a351097a8782a4247f7c478c51de6597b963fd35e00dff1",
+      "bytes": 17290
+    },
+    {
+      "path": "image/story/ln/hnm_banner_event_3.webp",
+      "eventId": 83,
+      "title": "Little Bravers！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_bravers_2023/event_bravers_2023.webp",
+      "sha256": "ab33da701f2bfaf5fea4a806580a2d80cb042f340d0f26afedf38401bf60898c",
+      "bytes": 21876
+    },
+    {
+      "path": "image/story/ln/hnm_banner_event_4.webp",
+      "eventId": 121,
+      "title": "導く勇気、優しさを胸に",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_lead_2024/event_lead_2024.webp",
+      "sha256": "0ad7ba41dc0c73ef0886a6052973303f67ab1c309c834c41de2d367ffb15b1c9",
+      "bytes": 23788
+    },
+    {
+      "path": "image/story/ln/hnm_banner_event_5.webp",
+      "eventId": 173,
+      "title": "Unsteady, still steady step",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_unsteady_2025/event_unsteady_2025.webp",
+      "sha256": "c7c6fe1a2705801b96a5fe15513bed2ac41b840ec5341b7e9f70f69374a4cccb",
+      "bytes": 17764
+    },
+    {
+      "path": "image/story/ln/hnm_banner_event_6.webp",
+      "eventId": 203,
+      "title": "あたたかな思い出を辿って",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_tracingmemories_2026/event_tracingmemories_2026.webp",
+      "sha256": "c2e8f41921376ab7065ceaaa8778feb22ee663073d779353b1679c78af1c2ecd",
+      "bytes": 21082
+    },
+    {
+      "path": "image/story/ln/Shiho_banner_event_1.webp",
+      "eventId": 20,
+      "title": "Resonate with you",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_resonate_2021/event_resonate_2021.webp",
+      "sha256": "23b383232c2a36f5a11c4fa4a6c6dd22c2093b792d6e63879ffc9ddb48d4ce96",
+      "bytes": 20170
+    },
+    {
+      "path": "image/story/ln/Shiho_banner_event_2.webp",
+      "eventId": 50,
+      "title": "あの日、空は遠かった",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_peaky_2022/event_peaky_2022.webp",
+      "sha256": "964fea6b51a11be40cacd88cfd2a91d8386f100b1f6e57228221518c0cd51dbc",
+      "bytes": 23886
+    },
+    {
+      "path": "image/story/ln/Shiho_banner_event_3.webp",
+      "eventId": 69,
+      "title": "Don't lose faith!",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_faith_2022/event_faith_2022.webp",
+      "sha256": "274119551741ac46d175f17cc244feb273e7f4d382d92ad19e4eb31652149565",
+      "bytes": 23132
+    },
+    {
+      "path": "image/story/ln/Shiho_banner_event_4.webp",
+      "eventId": 110,
+      "title": "Stick to your faith",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_stickto_2023/event_stickto_2023.webp",
+      "sha256": "13aca5849e72d4a8ae830d908e5ac9cb82156a3e469850736cdca659a1440959",
+      "bytes": 22436
+    },
+    {
+      "path": "image/story/ln/Shiho_banner_event_5.webp",
+      "eventId": 162,
+      "title": "Find the dream view",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_dreamview_2025/event_dreamview_2025.webp",
+      "sha256": "fc594a7885be0fc0411af8284ec8598a69b569332ac11d6d77858a41dbc06845",
+      "bytes": 18984
+    },
+    {
+      "path": "image/story/ln/Shiho_banner_event_6.webp",
+      "eventId": 195,
+      "title": "Path made by faith",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_path_2026/event_path_2026.webp",
+      "sha256": "cfef5975f285e5bfbd39cde3c2e3a320ab91baf387b8285ecb7e96a32d1cd57b",
+      "bytes": 21040
+    },
+    {
+      "path": "image/story/mmj/mnr_banner_event_1.webp",
+      "eventId": 17,
+      "title": "届け！HOPEFUL STAGE♪",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_angelclover_2021/event_angelclover_2021.webp",
+      "sha256": "18080b6266a2d4aa05f8c9c40e2c89cb599bf6a059f032700dbc08587f24485b",
+      "bytes": 21360
+    },
+    {
+      "path": "image/story/mmj/mnr_banner_event_2.webp",
+      "eventId": 43,
+      "title": "MOREMOREMakingXmas",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_makingxmas_2021/event_makingxmas_2021.webp",
+      "sha256": "97edddb2ff56779c5b8b1584f16faa4fed3bd627d1b776c7038f448ca0f01071",
+      "bytes": 23528
+    },
+    {
+      "path": "image/story/mmj/mnr_banner_event_3.webp",
+      "eventId": 73,
+      "title": "拝啓、あの頃のわたしへ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_then_2022/event_then_2022.webp",
+      "sha256": "0bb5531e4630856cfc27ad577ea2c213c94f9c25b0daeb55f1f034be159fdb38",
+      "bytes": 21684
+    },
+    {
+      "path": "image/story/mmj/mnr_banner_event_4.webp",
+      "eventId": 98,
+      "title": "STEP by STEP！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_step_2023/event_step_2023.webp",
+      "sha256": "86dc77cb4fe87b281b73b0579d1683455095738fff57a2412e2921dbf25b63e5",
+      "bytes": 19046
+    },
+    {
+      "path": "image/story/mmj/mnr_banner_event_5.webp",
+      "eventId": 122,
+      "title": "刻まれた傷は、やがて",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_graven_2024/event_graven_2024.webp",
+      "sha256": "8c78d8e1c7ab4f3375715a91804d00dbd8d15e5117b34ec55c0b54ad0c4e702c",
+      "bytes": 17544
+    },
+    {
+      "path": "image/story/mmj/banner_mmj_WL_1.webp",
+      "eventId": 130,
+      "title": "いつか花咲くステージへ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_blooming_2024/event_blooming_2024.webp",
+      "sha256": "2871cf7dbe8b386917785fcbf0a1064bfc392741fab912819c17059d5d20a463",
+      "bytes": 18266
+    },
+    {
+      "path": "image/story/mmj/mnr_banner_event_6.webp",
+      "eventId": 174,
+      "title": "start rolling! stars' crossing",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_crossing_2025/event_crossing_2025.webp",
+      "sha256": "bea06d0acef81356b9c4141d7e730ae54ad695c7b18b4fd5c7c88f8620f6f4d2",
+      "bytes": 18708
+    },
+    {
+      "path": "image/story/mmj/banner_mmj_WL_2.webp",
+      "eventId": 176,
+      "title": "All ways Jump! with you",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wl_2nd_idol_2025/event_wl_2nd_idol_2025.webp",
+      "sha256": "9e6f9afd7f9e711c95c218e2bc57146ac5776138aab0da05e3dc347ec7556b0b",
+      "bytes": 17112
+    },
+    {
+      "path": "image/story/mmj/mnr_banner_event_7.webp",
+      "eventId": 209,
+      "title": "アイドル・花里みのり～夢の最前線～",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_frontlines_2026/event_frontlines_2026.webp",
+      "sha256": "50ff3039bbbf28918a4ce877433c610f286f2308d56b1379ed95f8f30e971fee",
+      "bytes": 18334
+    },
+    {
+      "path": "image/story/mmj/hrk_banner_event_1.webp",
+      "eventId": 23,
+      "title": "頑張るあなたにBreak Time！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_breaktime_2021/event_breaktime_2021.webp",
+      "sha256": "b87ca4853a20d6f5dc7473648c3f83d65cfd4e67e09931c249542a9d680aacbd",
+      "bytes": 23328
+    },
+    {
+      "path": "image/story/mmj/hrk_banner_event_2.webp",
+      "eventId": 57,
+      "title": "つなぐPainful Hope",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_painful_2022/event_painful_2022.webp",
+      "sha256": "4b645138e4032936bd75072ff2f47bc5dd814924d77c34b3de6bde903c20b2a1",
+      "bytes": 19456
+    },
+    {
+      "path": "image/story/mmj/hrk_banner_event_3.webp",
+      "eventId": 78,
+      "title": "あの日の夢の、彼方向こうへ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_beyond_2022/event_beyond_2022.webp",
+      "sha256": "2ae04967c780ea1eef5b1275604216b27ed223137c03e253f162b4c66c452648",
+      "bytes": 20576
+    },
+    {
+      "path": "image/story/mmj/hrk_banner_event_4.webp",
+      "eventId": 133,
+      "title": "Lead to shine more",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_shine_2024/event_shine_2024.webp",
+      "sha256": "1cb4b4569edb7549583c6cfe73fae561699542863c900b22dbfa9ddb3059e389",
+      "bytes": 17968
+    },
+    {
+      "path": "image/story/mmj/hrk_banner_event_5.webp",
+      "eventId": 157,
+      "title": "Rise and Strive",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_strive_2025/event_strive_2025.webp",
+      "sha256": "cd7df6411f00716b8a3e19a8160b3185967dc8b6243c91e5a9e7151aec56c5a9",
+      "bytes": 17876
+    },
+    {
+      "path": "image/story/mmj/hrk_banner_event_6.webp",
+      "eventId": 190,
+      "title": "この物語は希望をのせて",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_hope_2025/event_hope_2025.webp",
+      "sha256": "1b4d8bb2dd528bb25f82d9f5f645de59fd637cf9885f3346060d320d7bfd6260",
+      "bytes": 21040
+    },
+    {
+      "path": "image/story/mmj/airi_banner_event_1.webp",
+      "eventId": 5,
+      "title": "ここからRE:START！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_restart_2020/event_restart_2020.webp",
+      "sha256": "30404276fe569176ec7b3087f6480d1b9f5217dc08120dede1e1e1eaab5bf92b",
+      "bytes": 22364
+    },
+    {
+      "path": "image/story/mmj/airi_banner_event_2.webp",
+      "eventId": 31,
+      "title": "ハッピー・ラブリー・エブリデイ！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_everyday_2021/event_everyday_2021.webp",
+      "sha256": "a240010990f444e5a2ad2c0781539348982298f4268173d0a092ec50539d6052",
+      "bytes": 22868
+    },
+    {
+      "path": "image/story/mmj/airi_banner_event_3.webp",
+      "eventId": 67,
+      "title": "青空の先、輝きを追いかけて",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_blue_2022/event_blue_2022.webp",
+      "sha256": "06825a8af3731e1a2b84153b5b4ddc22c953d8b6e13c9e00887b6236a49e513d",
+      "bytes": 24428
+    },
+    {
+      "path": "image/story/mmj/airi_banner_event_4.webp",
+      "eventId": 92,
+      "title": "Re-tie Friendship",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_retie_2023/event_retie_2023.webp",
+      "sha256": "f08434abc509a434fec6b89d75d7a8a4547939352e5ae6772a33272cee4e9cdd",
+      "bytes": 20394
+    },
+    {
+      "path": "image/story/mmj/airi_banner_event_5.webp",
+      "eventId": 138,
+      "title": "Chase my IDEAL IDOL！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_chase_2024/event_chase_2024.webp",
+      "sha256": "c4eae264277a9ad0662f29f2439f3bc25716b3794502d83dc33d94a59ae4b550",
+      "bytes": 21288
+    },
+    {
+      "path": "image/story/mmj/airi_banner_event_6.webp",
+      "eventId": 168,
+      "title": "Cheer with my Heart!",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_cheerheart_2025/event_cheerheart_2025.webp",
+      "sha256": "51de47782949e93bde571964b9f35de9156802d38843729d29bb55fea8d1dc1f",
+      "bytes": 16400
+    },
+    {
+      "path": "image/story/mmj/airi_banner_event_7.webp",
+      "eventId": 198,
+      "title": "Open up new horizons！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_horizons_2026/event_horizons_2026.webp",
+      "sha256": "d1684806391d611f1111a83b9f202dd9bfcaac79a092dac994f3ba84242128fd",
+      "bytes": 17574
+    },
+    {
+      "path": "image/story/mmj/szk_banner_event_1.webp",
+      "eventId": 11,
+      "title": "Color of Myself！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_color_2021/event_color_2021.webp",
+      "sha256": "ab4bb27b4a0de2bc9806b95d1abd0fad23d6863b532f623a465e0a55be582820",
+      "bytes": 20802
+    },
+    {
+      "path": "image/story/mmj/szk_banner_event_2.webp",
+      "eventId": 52,
+      "title": "Cast Spell on You",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_castspell_2022/event_castspell_2022.webp",
+      "sha256": "f31115dce3ecaa1640a5d0da79f9fee51ac4aea76bb261bc63597e4057d85737",
+      "bytes": 21476
+    },
+    {
+      "path": "image/story/mmj/szk_banner_event_3.webp",
+      "eventId": 85,
+      "title": "ほどかれた糸のその先に",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_thread_2023/event_thread_2023.webp",
+      "sha256": "c5aca481e75b6f5109fa55b4155247d107ea79349bbe6a62b2fbbbee3a5c818a",
+      "bytes": 22428
+    },
+    {
+      "path": "image/story/mmj/szk_banner_event_4.webp",
+      "eventId": 111,
+      "title": "その手導くぬくもりは",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_warmth_2023/event_warmth_2023.webp",
+      "sha256": "d1c7404fbb6f6e2542bc278befd2fbce3a94f733f5ee47e12a3f34bec1c0f552",
+      "bytes": 15498
+    },
+    {
+      "path": "image/story/mmj/szk_banner_event_5.webp",
+      "eventId": 151,
+      "title": "Grow glorious glow",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_grow_2024/event_grow_2024.webp",
+      "sha256": "86503f72c2acdf494d4a59881dbfbcd561de1dca050eb77268c1f6c6c7128968",
+      "bytes": 19970
+    },
+    {
+      "path": "image/story/mmj/szk_banner_event_6.webp",
+      "eventId": 183,
+      "title": "交わる色はあの日のままに",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_colorcross_2025/event_colorcross_2025.webp",
+      "sha256": "bcd9b476762dcab93d2672715070dedbd686e10816f77336e6c59a2a765a49e9",
+      "bytes": 23504
+    },
+    {
+      "path": "image/story/vbs/khn_banner_event_1.webp",
+      "eventId": 28,
+      "title": "Awakening Beat",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_awakening_2021/event_awakening_2021.webp",
+      "sha256": "d66b206f0a543f1a59ba5d7e95e9817b725ee634843c0dbcf9ef794f4bcae4a5",
+      "bytes": 23286
+    },
+    {
+      "path": "image/story/vbs/khn_banner_event_2.webp",
+      "eventId": 49,
+      "title": "Legend still vivid",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_legend_2022/event_legend_2022.webp",
+      "sha256": "d79f51850a142c859b464aa5b480cbd1bf570ac732149e34d1bdcc2b8e1ba9c8",
+      "bytes": 19838
+    },
+    {
+      "path": "image/story/vbs/khn_banner_event_3.webp",
+      "eventId": 86,
+      "title": "Kick it up a notch",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_kick_2023/event_kick_2023.webp",
+      "sha256": "a173137337ccf77cf95de900bfa6e34dd4fe9192c16c7c7db8e842cbc85953fe",
+      "bytes": 25912
+    },
+    {
+      "path": "image/story/vbs/khn_banner_event_4.webp",
+      "eventId": 103,
+      "title": "On Your Feet",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_onyourfeet_2023/event_onyourfeet_2023.webp",
+      "sha256": "d2439956a2a11dccfc4408393ab4473610d5a23f8e9ba9b80b7eb9719a41fce5",
+      "bytes": 24702
+    },
+    {
+      "path": "image/story/vbs/banner_vbs_WL_1.webp",
+      "eventId": 118,
+      "title": "BREAK DOWN THE WALL",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_breakdown_2024/event_breakdown_2024.webp",
+      "sha256": "20c4d149de8045407e7d17000525428962d23d2ff0ffd48faaadad4b81053c5c",
+      "bytes": 23152
+    },
+    {
+      "path": "image/story/vbs/khn_banner_event_5.webp",
+      "eventId": 135,
+      "title": "OVER RAD SQUAD!!",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_overrad_2024/event_overrad_2024.webp",
+      "sha256": "f2977dbec238ae0bc6484026046280951bce03e9217247a775afc54df2135f4e",
+      "bytes": 22268
+    },
+    {
+      "path": "image/story/vbs/banner_vbs_WL_2.webp",
+      "eventId": 163,
+      "title": "Turning Pain into Drive",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wl_2nd_street_2025/event_wl_2nd_street_2025.webp",
+      "sha256": "6152115a5787e316fc0b98038806ffd4ebd398aa3f675a1b2e3b3ebad138ef1e",
+      "bytes": 20592
+    },
+    {
+      "path": "image/story/vbs/khn_banner_event_6.webp",
+      "eventId": 169,
+      "title": "Aim higher and higher！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_higher_2025/event_higher_2025.webp",
+      "sha256": "b758285d4dfa0e3342f61de4ea778d2cb5833c8302887789400e3a8ad57517e6",
+      "bytes": 23414
+    },
+    {
+      "path": "image/story/vbs/khn_banner_event_7.webp",
+      "eventId": 204,
+      "title": "Stay solid, No fold",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_staysolid_2026/event_staysolid_2026.webp",
+      "sha256": "1263e1b843d714fa37e3dac0b2737c4e2ef06c4c4c22b75f4824c7fbd465f12a",
+      "bytes": 22660
+    },
+    {
+      "path": "image/story/vbs/an_banner_event_1.webp",
+      "eventId": 6,
+      "title": "いつか、背中あわせのリリックを",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_forward_2020/event_forward_2020.webp",
+      "sha256": "ec50c126983d4d8ade8fbbfc37f185bc220e729a26f2f0206bd0f176f6d21b51",
+      "bytes": 20430
+    },
+    {
+      "path": "image/story/vbs/an_banner_event_2.webp",
+      "eventId": 37,
+      "title": "Bout for Beside You",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_besideyou_2021/event_besideyou_2021.webp",
+      "sha256": "30f7639503cb8bf19ce330fb38c260760310b5d05abfd42cb5c9320986dbd9a3",
+      "bytes": 19772
+    },
+    {
+      "path": "image/story/vbs/an_banner_event_3.webp",
+      "eventId": 64,
+      "title": "The Vivid Old Tale",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_tale_2022/event_tale_2022.webp",
+      "sha256": "81418c6ee5f7b3f801b380f811de0b07b76372c75a1f4581735f7b6bfd52b2e4",
+      "bytes": 17208
+    },
+    {
+      "path": "image/story/vbs/an_banner_event_4.webp",
+      "eventId": 97,
+      "title": "Light Up the Fire",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_fire_2023/event_fire_2023.webp",
+      "sha256": "132518ac3d3850dce6eda9cb59d450cdc9b02364922f20c08e7feb3cde357f1a",
+      "bytes": 18678
+    },
+    {
+      "path": "image/story/vbs/an_banner_event_5.webp",
+      "eventId": 129,
+      "title": "Whip the wimp girl!!",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_whip_2024/event_whip_2024.webp",
+      "sha256": "a9afc5036c87b8eb061d4ad58faeff308eb6b3bfcf17b34d2818ef256c34e60e",
+      "bytes": 25732
+    },
+    {
+      "path": "image/story/vbs/an_banner_event_6.webp",
+      "eventId": 175,
+      "title": "Competitive fire！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_competitive_2025/event_competitive_2025.webp",
+      "sha256": "010cad47555dd627f2024dff0cb16e900336d1f1eee162b4c7855ebed13c0b3d",
+      "bytes": 18756
+    },
+    {
+      "path": "image/story/vbs/an_banner_event_7.webp",
+      "eventId": 201,
+      "title": "Show 'em what's up！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_show_2026/event_show_2026.webp",
+      "sha256": "88114e5da069400943b7b06281e3887e8aee112c9e29b7f6c955aab2dece1825",
+      "bytes": 20480
+    },
+    {
+      "path": "image/story/vbs/atk_banner_event_1.webp",
+      "eventId": 21,
+      "title": "STRAY BAD DOG",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_stray_2021/event_stray_2021.webp",
+      "sha256": "90715d05e5ae4138488f776ffd36fe63e2fa02e73c0d1facc3dd6a695cc19bee",
+      "bytes": 19614
+    },
+    {
+      "path": "image/story/vbs/akt_banner_event_2.webp",
+      "eventId": 59,
+      "title": "THE POWER OF UNITY",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_unity_2022/event_unity_2022.webp",
+      "sha256": "b86296b8abf4a23bebce9c00eee3c272fb30d2cea668cdfaf9475b9083339985",
+      "bytes": 23664
+    },
+    {
+      "path": "image/story/vbs/akt_banner_event_3.webp",
+      "eventId": 79,
+      "title": "Find A Way Out",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_way_2022/event_way_2022.webp",
+      "sha256": "44e4cefb89b1073b66fe117ffa4e242c2a48c7bc9d721c8e513a4351e646d32a",
+      "bytes": 18948
+    },
+    {
+      "path": "image/story/vbs/akt_banner_event_4.webp",
+      "eventId": 109,
+      "title": "BURN MY SOUL",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_burn_2023/event_burn_2023.webp",
+      "sha256": "16f0ff4c9cc7de5363513e2c786a11082895cc1207d1694f7ffc58c30b45c95d",
+      "bytes": 24392
+    },
+    {
+      "path": "image/story/vbs/akt_banner_event_5.webp",
+      "eventId": 146,
+      "title": "Rekindle the flame",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_rekindle_2024/event_rekindle_2024.webp",
+      "sha256": "0d3c072253f48d782ebc9e109c7d9ffd3c81da233b29b49f88c0686072f68a90",
+      "bytes": 16562
+    },
+    {
+      "path": "image/story/vbs/akt_banner_event_6.webp",
+      "eventId": 187,
+      "title": "Overcome one's limits",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_overcome_2025/event_overcome_2025.webp",
+      "sha256": "94db8e3b0c9de7c152bc468fe7fe0b6b5fe3d4a1a3d80495f7a4d50c20d3f322",
+      "bytes": 23010
+    },
+    {
+      "path": "image/story/vbs/toya_banner_event_1.webp",
+      "eventId": 12,
+      "title": "Period of NOCTURNE",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_nocturne_2021/event_nocturne_2021.webp",
+      "sha256": "b216b040ba8f2cd0704bcae3c43a3bb151181492cd20b3dec92833ccae774f58",
+      "bytes": 19750
+    },
+    {
+      "path": "image/story/vbs/toya_banner_event_2.webp",
+      "eventId": 44,
+      "title": "Same Dreams,Same Colors",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_camp_2021/event_camp_2021.webp",
+      "sha256": "860f3bad1d57d9e2a9870149e99ca8c9077996fd9e77838e34777004af3f959c",
+      "bytes": 22902
+    },
+    {
+      "path": "image/story/vbs/toya_banner_event_3.webp",
+      "eventId": 71,
+      "title": "Walk on and on",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_walk_2022/event_walk_2022.webp",
+      "sha256": "f390df92d7b6cfdc2d45fdeff4b06001bf8f3114c1b8259fcdd4f3bea72add50",
+      "bytes": 21002
+    },
+    {
+      "path": "image/story/vbs/toya_banner_event_4.webp",
+      "eventId": 125,
+      "title": "The first concerto",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_concerto_2024/event_concerto_2024.webp",
+      "sha256": "516d21d5fe5f45d8589daadb19e3e80867ab6f0f0fd0fd1c94b2090d1ab886fc",
+      "bytes": 18068
+    },
+    {
+      "path": "image/story/vbs/toya_banner_event_5.webp",
+      "eventId": 154,
+      "title": "Time to take off！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_takeoff_2025/event_takeoff_2025.webp",
+      "sha256": "46736a26f74c17640aac414b5ac1205a1fe531b4d03f3f9ed0f3d7f877e40f14",
+      "bytes": 19806
+    },
+    {
+      "path": "image/story/vbs/toya_banner_event_6.webp",
+      "eventId": 193,
+      "title": "GO ALL OUT",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_allout_2026/event_allout_2026.webp",
+      "sha256": "0a1361190418d0dce99884442f657e86c231636feaa6a4efa638c0d007a77f58",
+      "bytes": 14876
+    },
+    {
+      "path": "image/story/ws/tks_banner_event_1.webp",
+      "eventId": 25,
+      "title": "ワンダーマジカルショウタイム！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wonders_2021/event_wonders_2021.webp",
+      "sha256": "7ce4ef4af5f1ac87182ca9f7774126a8b52d4bad670743cd06a4b1a2160b6cc5",
+      "bytes": 26162
+    },
+    {
+      "path": "image/story/ws/tks_banner_event_2.webp",
+      "eventId": 55,
+      "title": "まばゆい光のステージで",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_star_2022/event_star_2022.webp",
+      "sha256": "af070979fef8bdc0f8eced176a38e57126c7def11d37e48ec1be6833198145c2",
+      "bytes": 21938
+    },
+    {
+      "path": "image/story/ws/tks_banner_event_3.webp",
+      "eventId": 88,
+      "title": "天の果てのフェニックスへ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_sky_2023/event_sky_2023.webp",
+      "sha256": "991ca22a607f998d158e4300129f55cec466be24c7763f9b187019e580d4d3b0",
+      "bytes": 19560
+    },
+    {
+      "path": "image/story/ws/tks_banner_event_4.webp",
+      "eventId": 113,
+      "title": "君が主役の物語を",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_supporting_2023/event_supporting_2023.webp",
+      "sha256": "9b4632925de49df324002eedba405b4a00d06a7393b77a7d56436cbd6755553f",
+      "bytes": 22316
+    },
+    {
+      "path": "image/story/ws/banner_ws_WL_1.webp",
+      "eventId": 124,
+      "title": "星を目指して、ヨーソロー！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_yosoro_2024/event_yosoro_2024.webp",
+      "sha256": "b55b5d1f3deae47df1a4323060c31998c287608d30fb7cc62c1050a095333d35",
+      "bytes": 20302
+    },
+    {
+      "path": "image/story/ws/tks_banner_event_5.webp",
+      "eventId": 136,
+      "title": "お縄を頂戴！？天馬捕物帳",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_torimonothou_2024/event_torimonothou_2024.webp",
+      "sha256": "9a2c6e563606ca835c187d2ed043c5ddc3dcc1b6a9e425f9e3713c172d0b2dbb",
+      "bytes": 23182
+    },
+    {
+      "path": "image/story/ws/banner_ws_WL_2.webp",
+      "eventId": 167,
+      "title": "Dear my fellows",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wl_2nd_themepark_2025/event_wl_2nd_themepark_2025.webp",
+      "sha256": "9e317b90e821d378eb5f2b3d6c1b89cb73b9faa76b3d104ccf597dcb5f8badde",
+      "bytes": 19216
+    },
+    {
+      "path": "image/story/ws/tks_banner_event_6.webp",
+      "eventId": 178,
+      "title": "Deep Dark For Light",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_forlight_2025/event_forlight_2025.webp",
+      "sha256": "4246a482fdedd76eafd2b81d0e5430e088ca5ff7b36d61391a6ec52879eefcef",
+      "bytes": 15388
+    },
+    {
+      "path": "image/story/ws/tks_banner_event_7.webp",
+      "eventId": 208,
+      "title": "Phantom maze monster",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_monster_2026/event_monster_2026.webp",
+      "sha256": "e099a6f0f12310443333bb0a6c540f653fbaad3a4f59744c095c413a838589a3",
+      "bytes": 18246
+    },
+    {
+      "path": "image/story/ws/emu_banner_event_1.webp",
+      "eventId": 15,
+      "title": "スマイルオブドリーマー",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_dream_2021/event_dream_2021.webp",
+      "sha256": "ad9b35c673831f1fd6167d21fb0ea165eb4399ed3166e8b36a1a50e41fd15cfa",
+      "bytes": 23472
+    },
+    {
+      "path": "image/story/ws/emu_banner_event_2.webp",
+      "eventId": 46,
+      "title": "POP IN MY HEART!!",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_nikkori_2022/event_nikkori_2022.webp",
+      "sha256": "e81abd20d67f6778a269580b62e9578f010198c5c739b67c8cb7503f8d3dc662",
+      "bytes": 24430
+    },
+    {
+      "path": "image/story/ws/emu_banner_event_3.webp",
+      "eventId": 82,
+      "title": "夢の途中、輝く星たちへ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_shining_2023/event_shining_2023.webp",
+      "sha256": "1089446deadd426fadf3b8d88272d4550a90febb77348d8a88d3af1c387dad85",
+      "bytes": 20142
+    },
+    {
+      "path": "image/story/ws/emu_banner_event_4.webp",
+      "eventId": 104,
+      "title": "あたしたちのハッピーエンド",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_ourhappy_2023/event_ourhappy_2023.webp",
+      "sha256": "5f7dad6be980a631a6828f57f19e6614d938698911eb86ac374e2a0cba54b303",
+      "bytes": 21638
+    },
+    {
+      "path": "image/story/ws/emu_banner_event_5.webp",
+      "eventId": 131,
+      "title": "perspective for smile",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_smile_2024/event_smile_2024.webp",
+      "sha256": "a79e51d8eed4eeb2e5954a6a0c6ef163a230a201a1f1efbe7811c6c5b98cea82",
+      "bytes": 18424
+    },
+    {
+      "path": "image/story/ws/emu_banner_event_6.webp",
+      "eventId": 164,
+      "title": "Choices for the future",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_choicesfuture_2025/event_choicesfuture_2025.webp",
+      "sha256": "22de27611b7b2cb95c6ebbecae20dfe07e8cfce7fe49db288abb7d7fd41fe0c2",
+      "bytes": 17266
+    },
+    {
+      "path": "image/story/ws/emu_banner_event_7.webp",
+      "eventId": 196,
+      "title": "CHANGE！えむは王女さま！？",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_princess_2026/event_princess_2026.webp",
+      "sha256": "60dcfec9db77ed3b64cea416286cf7b85b52a6ce8879883fb3b64aad72dde00c",
+      "bytes": 23846
+    },
+    {
+      "path": "image/story/ws/nene_banner_event_1.webp",
+      "eventId": 8,
+      "title": "聖なる夜に、この歌声を",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_nijiiro_2020/event_nijiiro_2020.webp",
+      "sha256": "018ee007741c858753d4f8223ab270b4859393075b014910d04fefb9b7bf0e85",
+      "bytes": 22248
+    },
+    {
+      "path": "image/story/ws/nene_banner_event_2.webp",
+      "eventId": 32,
+      "title": "マーメイドにあこがれて",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_mermaid_2021/event_mermaid_2021.webp",
+      "sha256": "0b76d77642dafa513525132a3c1d0a7503f1dc9f3cee8ea8f9422731a1dd6dee",
+      "bytes": 19744
+    },
+    {
+      "path": "image/story/ws/nene_banner_event_3.webp",
+      "eventId": 62,
+      "title": "絶体絶命！？アイランドパニック！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_island_2022/event_island_2022.webp",
+      "sha256": "d15f42719da5c4280a9cbc76905ebad3a62ff68f9b62f193ccc00309a50a1edb",
+      "bytes": 23694
+    },
+    {
+      "path": "image/story/ws/nene_banner_event_4.webp",
+      "eventId": 95,
+      "title": "カナリアは窮境に歌う",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_quagmire_2023/event_quagmire_2023.webp",
+      "sha256": "6db7b7543c61a36b5bed4e403cdffd140ec60a9882c765ea7868a18e9a10fd1b",
+      "bytes": 23756
+    },
+    {
+      "path": "image/story/ws/nene_banner_event_5.webp",
+      "eventId": 149,
+      "title": "The Power Of Regret",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_regret_2024/event_regret_2024.webp",
+      "sha256": "e6c405f713943bfd34950c4fe66fe89aabab46bda3c1a94180b765fb21db6b6e",
+      "bytes": 19260
+    },
+    {
+      "path": "image/story/ws/nene_banner_event_6.webp",
+      "eventId": 185,
+      "title": "超克のプロタゴニスタ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_protagonist_2025/event_protagonist_2025.webp",
+      "sha256": "7514e9b4e6a141f9b2fe226b413506921849b7187d13cd281010d27456a2f531",
+      "bytes": 20846
+    },
+    {
+      "path": "image/story/ws/rui_banner_event_1.webp",
+      "eventId": 3,
+      "title": "全力！ワンダーハロウィン！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_potato_2020/event_potato_2020.webp",
+      "sha256": "6d5161f008b26633706269434c3428ba61e45a90f4513053be83169879d6a5a6",
+      "bytes": 24752
+    },
+    {
+      "path": "image/story/ws/rui_banner_event_2.webp",
+      "eventId": 38,
+      "title": "Revival my dream",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_revival_2021/event_revival_2021.webp",
+      "sha256": "f5036d4f6df4c055392e627037855b36fc5609804deb5a8376323bfde5cc124a",
+      "bytes": 20652
+    },
+    {
+      "path": "image/story/ws/rui_banner_event_3.webp",
+      "eventId": 74,
+      "title": "カーテンコールに惜別を",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_curtaincall_2022/event_curtaincall_2022.webp",
+      "sha256": "f665f70fc5cf0702150f0602f570d8adf84cc24b8a94dc8958b095837c53595d",
+      "bytes": 18862
+    },
+    {
+      "path": "image/story/ws/rui_banner_event_4.webp",
+      "eventId": 119,
+      "title": "逆光のレンズフレア",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_lensflare_2024/event_lensflare_2024.webp",
+      "sha256": "54aa2949e93509204a6abe1997a8b03b42e8165dd66ffb7ba2395ef57c2ceb0c",
+      "bytes": 17688
+    },
+    {
+      "path": "image/story/ws/rui_banner_event_5.webp",
+      "eventId": 172,
+      "title": "Deeper and deeper",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_deeper_2025/event_deeper_2025.webp",
+      "sha256": "3cf86f8573b60c5fae6276dedf54e2e3cc43c91c9529457b831f9bd1be34ba8e",
+      "bytes": 15086
+    },
+    {
+      "path": "image/story/ws/rui_banner_event_6.webp",
+      "eventId": 200,
+      "title": "残照のInside Direction",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_direction_2026/event_direction_2026.webp",
+      "sha256": "70d480ac787e338165fe0bb21c4fa92e73190e0f9c3a271fa0d812885901482b",
+      "bytes": 15448
+    },
+    {
+      "path": "image/story/25/knd_banner_event_1.webp",
+      "eventId": 26,
+      "title": "カーネーション・リコレクション",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_carnation_2021/event_carnation_2021.webp",
+      "sha256": "e82e24bbc7e0b7de95498c243604fd916c8a0d2bf3f8fe9ca56ef570df33a0f3",
+      "bytes": 15028
+    },
+    {
+      "path": "image/story/25/knd_banner_event_2.webp",
+      "eventId": 47,
+      "title": "いつか、絶望の底から",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_tricolo_2022/event_tricolo_2022.webp",
+      "sha256": "1c9942b6b1b0cee07f650f1b09d8976489a6292ac998f9df97c91e8c62d52041",
+      "bytes": 18684
+    },
+    {
+      "path": "image/story/25/knd_banner_event_3.webp",
+      "eventId": 89,
+      "title": "イミシブル・ディスコード",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_immiscible_2023/event_immiscible_2023.webp",
+      "sha256": "afb2b219c947bb94487b479216a3970f048c199b6b6fc3e09b81ceff04ba589a",
+      "bytes": 17974
+    },
+    {
+      "path": "image/story/25/banner_25_WL_1.webp",
+      "eventId": 112,
+      "title": "水底に影を探して",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_underwater_2023/event_underwater_2023.webp",
+      "sha256": "138b2318fcf5f01b438d888e6239782e544d034c07412f61214768002948bdcd",
+      "bytes": 13040
+    },
+    {
+      "path": "image/story/25/knd_banner_event_4.webp",
+      "eventId": 116,
+      "title": "あの日、奏でた音色を",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_tone_2023/event_tone_2023.webp",
+      "sha256": "9483dd82c94a3cf866a8cdd58b6bb427103d1ebdfe93f24a64172d6ee071f25c",
+      "bytes": 16768
+    },
+    {
+      "path": "image/story/25/knd_banner_event_5.webp",
+      "eventId": 161,
+      "title": "Unreliable Notes",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_notes_2025/event_notes_2025.webp",
+      "sha256": "129808779b9cd33b033e3afe7b10a094925192cc28236e7ba02385bc610f034b",
+      "bytes": 17608
+    },
+    {
+      "path": "image/story/25/banner_25_WL_2.webp",
+      "eventId": 170,
+      "title": "泡沫に抱かれて",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wl_2nd_schoolrefusal_2025/event_wl_2nd_schoolrefusal_2025.webp",
+      "sha256": "224e8b3689b0d52f406b13706f8dc8b7aff98738bd8782c336206055eb55106c",
+      "bytes": 14054
+    },
+    {
+      "path": "image/story/25/knd_banner_event_6.webp",
+      "eventId": 192,
+      "title": "覚めない幻想をノックして",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_knock_2026/event_knock_2026.webp",
+      "sha256": "c342a3ea74f9b2eb23b072582708c883c734607e18b450b83332e672fe445799",
+      "bytes": 11674
+    },
+    {
+      "path": "image/story/25/mfy_banner_event_1.webp",
+      "eventId": 2,
+      "title": "囚われのマリオネット",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_jackpod_2020/event_jackpod_2020.webp",
+      "sha256": "3e62e348ccd27e9710f099c18c3051cf9c5560eb6526519808322695c2cdb006",
+      "bytes": 23208
+    },
+    {
+      "path": "image/story/25/mfy_banner_event_2.webp",
+      "eventId": 35,
+      "title": "灯のミラージュ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_mirage_2021/event_mirage_2021.webp",
+      "sha256": "42dd45b4af6e5ab08d86e8decc76fb414fbb76396e0ee1cfaacc3236e8bb8473",
+      "bytes": 21538
+    },
+    {
+      "path": "image/story/25/mfy_banner_event_3.webp",
+      "eventId": 61,
+      "title": "迷い子の手を引く、そのさきは",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_maigo_2022/event_maigo_2022.webp",
+      "sha256": "35ba2e1b70c771d6d041adde55e413d8cf68fb756aa47e9bdc0388d76ddfc799",
+      "bytes": 20420
+    },
+    {
+      "path": "image/story/25/mfy_banner_event_4.webp",
+      "eventId": 100,
+      "title": "仮面の私にさよならを",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_persona_2023/event_persona_2023.webp",
+      "sha256": "99801cbcc684885c58e92e8bc409b8d87544e6d1708c168be0db59210a5510ed",
+      "bytes": 15330
+    },
+    {
+      "path": "image/story/25/mfy_banner_event_5.webp",
+      "eventId": 134,
+      "title": "灯を手繰りよせて",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_tomoshibi_2024/event_tomoshibi_2024.webp",
+      "sha256": "65890a419e669b8e18940193784197b7e2539e3aae35f622790769934bff86c7",
+      "bytes": 16606
+    },
+    {
+      "path": "image/story/25/ena_banner_event_1.webp",
+      "eventId": 14,
+      "title": "満たされないペイルカラー",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_infinitelygray_2021/event_infinitelygray_2021.webp",
+      "sha256": "07840ddf479a77ad1600c01984935fc3bef35d4eca0d55ecec208191dcf7056c",
+      "bytes": 20358
+    },
+    {
+      "path": "image/story/25/ena_banner_event_2.webp",
+      "eventId": 53,
+      "title": "空白のキャンバスに描く私は",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_canvas_2022/event_canvas_2022.webp",
+      "sha256": "08722bbed76e096df3541d09002a8cbbad3c8396a51691071e02839c494ff148",
+      "bytes": 22278
+    },
+    {
+      "path": "image/story/25/ena_banner_event_3.webp",
+      "eventId": 76,
+      "title": "Echo my melody",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_echo_2022/event_echo_2022.webp",
+      "sha256": "d22b6250a222932ace8c9eb66dd824c7268fbc5d6bbc1bdaa65c28af7d786dcb",
+      "bytes": 20288
+    },
+    {
+      "path": "image/story/25/ena_banner_event_4.webp",
+      "eventId": 127,
+      "title": "Knowing the Unseen",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_unseen_2024/event_unseen_2024.webp",
+      "sha256": "6f5fa6462e3ef040e7281f52d9ba41eca2abaae90386eaddcdbb44b041473a9e",
+      "bytes": 13284
+    },
+    {
+      "path": "image/story/25/ena_banner_event_5.webp",
+      "eventId": 150,
+      "title": "傷だらけの手で、私達は",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_scratch_2024/event_scratch_2024.webp",
+      "sha256": "6ddaa99eb9f83e9f1ad660263571ba3c1495975c5bb4d9949e75a771fc94ee5e",
+      "bytes": 14792
+    },
+    {
+      "path": "image/story/25/ena_banner_event_6.webp",
+      "eventId": 184,
+      "title": "Colors of Pure Sense",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_colors_2025/event_colors_2025.webp",
+      "sha256": "0df35f5b175baf3a60541c564189f11f6914ef4a4006900869154a68052eadc3",
+      "bytes": 19858
+    },
+    {
+      "path": "image/story/25/ena_banner_event_7.webp",
+      "eventId": 210,
+      "title": "褪せない今を、彩って",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_addcolor_2026/event_addcolor_2026.webp",
+      "sha256": "eef03dcf86aa53e2e64311fd6fa3ec31028c5d28cffe9f9a35f88956cfd7d9b3",
+      "bytes": 17106
+    },
+    {
+      "path": "image/story/25/mzk_banner_event_1.webp",
+      "eventId": 19,
+      "title": "シークレット・ディスタンス",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_secret_2021/event_secret_2021.webp",
+      "sha256": "9bb4ff9c1468b43a6d0cc3398a4ff11368e4ff95558a88e7b98d768c2d03646b",
+      "bytes": 23074
+    },
+    {
+      "path": "image/story/25/mzk_banner_event_2.webp",
+      "eventId": 39,
+      "title": "ボクのあしあと キミのゆくさき",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_ashiato_2021/event_ashiato_2021.webp",
+      "sha256": "1e519f81fc0258c861671741a5f046a83ea4f100fca7caabd1d8a831b5f53f29",
+      "bytes": 17060
+    },
+    {
+      "path": "image/story/25/mzk_banner_event_3.webp",
+      "eventId": 68,
+      "title": "そしていま、リボンを結んで",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_ribbon_2022/event_ribbon_2022.webp",
+      "sha256": "ed75444c5d06f30ab51ee79b763e82797aaf15d8e2a8dd2644ed62ecb2e4fb30",
+      "bytes": 17804
+    },
+    {
+      "path": "image/story/25/mzk_banner_event_4.webp",
+      "eventId": 93,
+      "title": "ボク達の生存逃走",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_runaway_2023/event_runaway_2023.webp",
+      "sha256": "f7ce7598fef19534c2dc474ce52926dd8088b63a128cdc38449bf676769ea473",
+      "bytes": 20306
+    },
+    {
+      "path": "image/story/25/mzk_banner_event_5.webp",
+      "eventId": 145,
+      "title": "荊棘の道は何処へ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_thorns_2024/event_thorns_2024.webp",
+      "sha256": "eb17323b0fc060eed8468e02c8d4616862028f6a7f2f55ef254280d1773a0bb5",
+      "bytes": 15098
+    },
+    {
+      "path": "image/story/25/mzk_banner_event_6.webp",
+      "eventId": 177,
+      "title": "ほどけぬ明日に手を伸ばして",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_tomorrow_2025/event_tomorrow_2025.webp",
+      "sha256": "acb70701d4f1efec96cfe5bd376ffb636309436c4d2af4e88014d5c067de9395",
+      "bytes": 16812
+    },
+    {
+      "path": "image/story/25/mzk_banner_event_7.webp",
+      "eventId": 199,
+      "title": "Amid the Wavering Light",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wavering_2026/event_wavering_2026.webp",
+      "sha256": "f1f5dcf3fd2ab6a5f1acde397269967473766d8d1daa2d078b599212815b703d",
+      "bytes": 19618
+    },
+    {
+      "path": "image/story/event/event_story_1.webp",
+      "eventId": 4,
+      "title": "走れ！体育祭！～実行委員は大忙し～",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_sportsfestival_2020/event_sportsfestival_2020.webp",
+      "sha256": "8f641dd611567a306e9b40d367a06d75cef6a5a1724ea83a24db10794e59585d",
+      "bytes": 26374
+    },
+    {
+      "path": "image/story/event/event_story_2.webp",
+      "eventId": 7,
+      "title": "KAMIKOU FESTIVAL！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_culturalfestival_2020/event_culturalfestival_2020.webp",
+      "sha256": "553869f7b5a24c4680b2387a501ce34e3d83d28045b5486ade29c76823f371bb",
+      "bytes": 21524
+    },
+    {
+      "path": "image/story/event/event_story_3.webp",
+      "eventId": 9,
+      "title": "セカイのハッピーニューイヤー！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_newyear_2020/event_newyear_2020.webp",
+      "sha256": "a6fcf2c115fa0f5ca5969b0b4084e07c03cffb9f467fb07fc3ff2f934da8b03f",
+      "bytes": 27438
+    },
+    {
+      "path": "image/story/event/event_story_4.webp",
+      "eventId": 13,
+      "title": "響くトワイライトパレード",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_parade_2021/event_parade_2021.webp",
+      "sha256": "436aee33c4d21719e2029342ef2190f2bf99069433f046a9722d0b89b8de14a1",
+      "bytes": 22746
+    },
+    {
+      "path": "image/story/event/event_story_5.webp",
+      "eventId": 16,
+      "title": "天馬さんちのひな祭り",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_hinamatsuri_2021/event_hinamatsuri_2021.webp",
+      "sha256": "8393df5c69abc17a52ebbb0b4fe9e6118ed02b6e77861e21df1822583e167b02",
+      "bytes": 20744
+    },
+    {
+      "path": "image/story/event/event_story_6.webp",
+      "eventId": 18,
+      "title": "君と歌う、桜舞う世界で",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_ohanami_2021/event_ohanami_2021.webp",
+      "sha256": "95d5bcbea4e9788f0fbcfc7882fee2069546ef44a0b5df27cc07c1a6938963d2",
+      "bytes": 22432
+    },
+    {
+      "path": "image/story/event/event_story_7.webp",
+      "eventId": 22,
+      "title": "お悩み聞かせて！わくわくピクニック",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_picnic_2021/event_picnic_2021.webp",
+      "sha256": "1eafaac7df7aca116bdee3752b0240a8ebf897652bacfc475afc6da43c0aa532",
+      "bytes": 19112
+    },
+    {
+      "path": "image/story/event/event_story_8.webp",
+      "eventId": 24,
+      "title": "純白の貴方へ、誓いの歌を！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_bridal_2021/event_bridal_2021.webp",
+      "sha256": "f64227904a3fea218bdb5fa9eeedc4d6a2c3671058e200e1c68fd0853db230f7",
+      "bytes": 26742
+    },
+    {
+      "path": "image/story/event/event_story_9.webp",
+      "eventId": 29,
+      "title": "夏祭り、鳴り響く音は",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_natsumatsuri_2021/event_natsumatsuri_2021.webp",
+      "sha256": "1e0e817b611922d21eb3155bd3e47069bca1dbda96227c9a71cd0f4ac2bb1709",
+      "bytes": 23982
+    },
+    {
+      "path": "image/story/event/event_story_10.webp",
+      "eventId": 30,
+      "title": "きっと最高のsummer！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_summer_2021/event_summer_2021.webp",
+      "sha256": "c997552af0e315b6b140a2dac691b173af887ca9e92791e7e1b96bde7c13fc8d",
+      "bytes": 23976
+    },
+    {
+      "path": "image/story/event/event_story_11.webp",
+      "eventId": 33,
+      "title": "ふたり、月うさぎ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_moonrabbit_2021/event_moonrabbit_2021.webp",
+      "sha256": "68ca3334960d4ac009e80a370ec8709c6d83f6c687816623ba20d13822c7faee",
+      "bytes": 22410
+    },
+    {
+      "path": "image/story/event/event_story_12.webp",
+      "eventId": 36,
+      "title": "スクランブル・ファンフェスタ！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_scramble_2021/event_scramble_2021.webp",
+      "sha256": "85e9b64dadab05c5e97456888069696f1dc2ba13c8d33c28892f944580e17845",
+      "bytes": 21690
+    },
+    {
+      "path": "image/story/event/event_story_13.webp",
+      "eventId": 41,
+      "title": "バディ・ファニー・スペンドタイム♪",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_buddy_2021/event_buddy_2021.webp",
+      "sha256": "9e0072a321819d2e4a33879949da4192aa0da0aa5d619152912c146a4a9a6290",
+      "bytes": 23304
+    },
+    {
+      "path": "image/story/event/event_story_14.webp",
+      "eventId": 42,
+      "title": "交わる旋律 灯るぬくもり",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_melody_2021/event_melody_2021.webp",
+      "sha256": "c2974e38d7132b4c774099392f9560e3f9a2f4a33bbe34606f63360b21864bf9",
+      "bytes": 18640
+    },
+    {
+      "path": "image/story/event/event_story_15.webp",
+      "eventId": 45,
+      "title": "祈りの先 願う明日は",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_prayer_2022/event_prayer_2022.webp",
+      "sha256": "e04546e9b5f67f062cbd59618ad9454ddb61398aeea90a3f1b23e74e9b12b34e",
+      "bytes": 17864
+    },
+    {
+      "path": "image/story/event/event_story_16.webp",
+      "eventId": 48,
+      "title": "秘密の♡バレンタイン大作戦！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_valentine_2022/event_valentine_2022.webp",
+      "sha256": "72221b8f83428d361689a567845aad56f6eb32c125226f4bf248700c71cc40aa",
+      "bytes": 23914
+    },
+    {
+      "path": "image/story/event/event_story_17.webp",
+      "eventId": 51,
+      "title": "怪盗紳士のハラハラ！？ホワイトデー",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_whiteday_2022/event_whiteday_2022.webp",
+      "sha256": "4eefc6ee2a8aa5072d35abcca8739e73027020e74ff92340b064fc6be0dce99f",
+      "bytes": 22062
+    },
+    {
+      "path": "image/story/event/event_story_18.webp",
+      "eventId": 54,
+      "title": "セカイの桜、つながる想い",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_sakura_2022/event_sakura_2022.webp",
+      "sha256": "fdcf032e245e5693dc4d545e01d7e1d479948f3e9ac1d2e91c34b95f1e11b5cb",
+      "bytes": 23054
+    },
+    {
+      "path": "image/story/event/event_story_19.webp",
+      "eventId": 58,
+      "title": "白熱！神高応援団！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_cheerteam_2022/event_cheerteam_2022.webp",
+      "sha256": "2797b2ae69fa1d25f9661122099189f3d15512fede1d5d1d5cabb73281e4b980",
+      "bytes": 23330
+    },
+    {
+      "path": "image/story/event/event_story_20.webp",
+      "eventId": 60,
+      "title": "青空に願うユア・ハピネス！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_happiness_2022/event_happiness_2022.webp",
+      "sha256": "8a4feb3106cd8d53dc186ac9195f21a681e04f06066dd232e8ce7112df1ca771",
+      "bytes": 19466
+    },
+    {
+      "path": "image/story/event/event_story_21.webp",
+      "eventId": 63,
+      "title": "みんなでエンジョイ！スポジョイパーク",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_sports_2022/event_sports_2022.webp",
+      "sha256": "66bf5de5e774068e46f1d7cedb4f89f2b47a3bab561d014dfd4f96c0e4f0cad2",
+      "bytes": 25248
+    },
+    {
+      "path": "image/story/event/event_story_22.webp",
+      "eventId": 66,
+      "title": "close game/OFFLINE",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_cyber_2022/event_cyber_2022.webp",
+      "sha256": "bcdd96b69eb69845e7e2e6e65b7975e551fc63735c050a13aaab3ef861c6dfc6",
+      "bytes": 20796
+    },
+    {
+      "path": "image/story/event/event_story_23.webp",
+      "eventId": 70,
+      "title": "好きを描いて♪レインボーキャンバス",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_rainbow_2022/event_rainbow_2022.webp",
+      "sha256": "ffd8b846e5bf7b23480a2505f9f3c4f76d10fe686d1f196ebbb90ca618c042c0",
+      "bytes": 21436
+    },
+    {
+      "path": "image/story/event/event_story_24.webp",
+      "eventId": 72,
+      "title": "この祭に 夕闇色も",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_festival_2022/event_festival_2022.webp",
+      "sha256": "59e336647cef10165c770fd0f2e6d47639cd46a483591d3f45b030cf8e7386ce",
+      "bytes": 23078
+    },
+    {
+      "path": "image/story/event/event_story_25.webp",
+      "eventId": 75,
+      "title": "絶叫！？ オオカミの森へようこそ！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_scream_2022/event_scream_2022.webp",
+      "sha256": "50094c1c88eb65d69c1f17a048843846cea6b7b8749a79e170cb0df4bdc29384",
+      "bytes": 22956
+    },
+    {
+      "path": "image/story/event/event_story_26.webp",
+      "eventId": 80,
+      "title": "弓引け、白の世界で",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_kyudo_2022/event_kyudo_2022.webp",
+      "sha256": "54ddeb2d41be10d13ef3c8f3de805a8bd79fe29e79ad075614b1037e81947e9c",
+      "bytes": 15324
+    },
+    {
+      "path": "image/story/event/event_story_27.webp",
+      "eventId": 81,
+      "title": "新春！ 獅子舞ロボのお正月ショー！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_liondance_2023/event_liondance_2023.webp",
+      "sha256": "e49e52827c0033242ba0f5382a15a221acb74bda38edb3357e331d8bf1bcf846",
+      "bytes": 23790
+    },
+    {
+      "path": "image/story/event/event_story_28.webp",
+      "eventId": 84,
+      "title": "キャンドルの香りは思い出と共に",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_candle_2023/event_candle_2023.webp",
+      "sha256": "45bacf1e18bb1b7707039f5f08b8762ae9addc4397b06ec50419e83bbf0efd1e",
+      "bytes": 21780
+    },
+    {
+      "path": "image/story/event/event_story_29.webp",
+      "eventId": 87,
+      "title": "Never Give Up Cooking！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_cooking_2023/event_cooking_2023.webp",
+      "sha256": "e9b4a51f6385abf1f095822fce8d141bbddb76ed45d0849c7c9feb09af5aea53",
+      "bytes": 21040
+    },
+    {
+      "path": "image/story/event/event_story_30.webp",
+      "eventId": 90,
+      "title": "交響する街の片隅で",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_citycorner_2023/event_citycorner_2023.webp",
+      "sha256": "7592fbbb71f2168b355418e0a91791e1c5f1168e062120a69af8ac1101c23f0f",
+      "bytes": 21398
+    },
+    {
+      "path": "image/story/event/event_story_31.webp",
+      "eventId": 94,
+      "title": "船出の前のワンデイトリップ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_trip_2023/event_trip_2023.webp",
+      "sha256": "5082ae5f06bd6986abdaa0f8b14a9ae0d54a0c859c83c3a7eb4233fadfdab8d5",
+      "bytes": 23032
+    },
+    {
+      "path": "image/story/event/event_story_32.webp",
+      "eventId": 96,
+      "title": "隣に立つ、優しいあなたへ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_neighbor_2023/event_neighbor_2023.webp",
+      "sha256": "d256f118599fef6b5ee14cc3d9856e34fcb53755cd3624896199bb358acecb3c",
+      "bytes": 20472
+    },
+    {
+      "path": "image/story/event/event_story_33.webp",
+      "eventId": 99,
+      "title": "一期一会な百鬼夜行！？",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_pandemonium_2023/event_pandemonium_2023.webp",
+      "sha256": "7defbfd68008ee56235961c8c08d7e35172757eb3e1fbb7360aeaa60256b449e",
+      "bytes": 23044
+    },
+    {
+      "path": "image/story/event/event_story_34.webp",
+      "eventId": 102,
+      "title": "ドタバタ cafe ●REC!!",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_recording_2023/event_recording_2023.webp",
+      "sha256": "52fdd3f5c756edb0067965e1f20b2453be401d458a0310c74e5715415394f9b1",
+      "bytes": 24210
+    },
+    {
+      "path": "image/story/event/event_story_35.webp",
+      "eventId": 105,
+      "title": "セカイに響け！Your Song",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_resound_2023/event_resound_2023.webp",
+      "sha256": "b9bfaa1eb47f3c688f7449958c83ff5b01a849bc938d9788ce4f54198861a03d",
+      "bytes": 25386
+    },
+    {
+      "path": "image/story/event/event_story_36.webp",
+      "eventId": 106,
+      "title": "君と紡ぐPrecious memories",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_preciousmemories_2023/event_preciousmemories_2023.webp",
+      "sha256": "d45f883a08af6cde6eee89d82204c2f2cc0d34019fd9bd7f035ca38ca94093a9",
+      "bytes": 20936
+    },
+    {
+      "path": "image/story/event/event_story_37.webp",
+      "eventId": 107,
+      "title": "Let's study hard！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_study_2023/event_study_2023.webp",
+      "sha256": "9b5c39593924cfb07ff2f10c724d1e71f02a4302c4e89c4e5d809f61497754ef",
+      "bytes": 20802
+    },
+    {
+      "path": "image/story/event/event_story_38.webp",
+      "eventId": 108,
+      "title": "ハロー・グッド・デイ！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_hello_2023/event_hello_2023.webp",
+      "sha256": "156687a16aa7f3a3848ed0eebfe5afeb5b24a57b5acb517d9bcf2af0b56e3245",
+      "bytes": 21388
+    },
+    {
+      "path": "image/story/event/event_story_39.webp",
+      "eventId": 114,
+      "title": "最高のクランクアップ！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_crankup_2023/event_crankup_2023.webp",
+      "sha256": "65f1443c1c4b483e68d0146fb79593193fe0a32e875cc214acb29151b6b66393",
+      "bytes": 22558
+    },
+    {
+      "path": "image/story/event/event_story_40.webp",
+      "eventId": 115,
+      "title": "あっちこっち飼育員体験！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_keeper_2023/event_keeper_2023.webp",
+      "sha256": "efa16aa8a1ee8867070568a561b5dad9244f29517113defc815cd9b318e74e84",
+      "bytes": 25924
+    },
+    {
+      "path": "image/story/event/event_story_41.webp",
+      "eventId": 117,
+      "title": "変わらぬあたたかさの隣で",
+      "upstream": "https://appmedia.jp/wp-content/uploads/2023/12/5b8a125d4a41d248cbf43a1a54f33f24.webp",
+      "sha256": "04f3f3653abf19e55893111a298df88c327311b9a6803c21a961ce556a89d4f3",
+      "bytes": 11476
+    },
+    {
+      "path": "image/story/event/event_story_42.webp",
+      "eventId": 120,
+      "title": "Take the Best Shot！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_bestshot_2024/event_bestshot_2024.webp",
+      "sha256": "3aecc349d24b8d3e93b7466bef0c6598eb792eadf3da71f8517dd9a7d3f54b3f",
+      "bytes": 26282
+    },
+    {
+      "path": "image/story/event/event_story_43.webp",
+      "eventId": 123,
+      "title": "リラックスティータイム",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_teatime_2024/event_teatime_2024.webp",
+      "sha256": "3c04cc99fe44034299beabe1277a83f1edc695d9d299d40ecd2d5cfe7544e874",
+      "bytes": 19116
+    },
+    {
+      "path": "image/story/event/event_story_44.webp",
+      "eventId": 126,
+      "title": "Rise as ONE！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_rise_2024/event_rise_2024.webp",
+      "sha256": "919218caf0c870375d2ff0fe09835196d56861c91189affd9506c9f63aa3c53d",
+      "bytes": 20276
+    },
+    {
+      "path": "image/story/event/event_story_45.webp",
+      "eventId": 132,
+      "title": "みんなで配信♡WEDDING LIVE！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wedding_2024/event_wedding_2024.webp",
+      "sha256": "e2518215f975a5c8a139defad9218d0ecd6a0b029900888aadc679004f994c28",
+      "bytes": 18276
+    },
+    {
+      "path": "image/story/event/event_story_46.webp",
+      "eventId": 139,
+      "title": "鳴らせビューティフルサウンド！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_beautifulsound_2024/event_beautifulsound_2024.webp",
+      "sha256": "ca9e7040718a3a9ec6890d613072bfe8f06b61d8ba745202e731d1294b518449",
+      "bytes": 22128
+    },
+    {
+      "path": "image/story/event/event_story_47.webp",
+      "eventId": 140,
+      "title": "キミと、セカイの始まりで",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_beginning_2024/event_beginning_2024.webp",
+      "sha256": "d92a560e886ec8eac6a39e23d698bf4baee7f365ae5ffacef0ed8ed452e7c58d",
+      "bytes": 15300
+    },
+    {
+      "path": "image/story/event/event_story_48.webp",
+      "eventId": 141,
+      "title": "わんだほら～！？な肝だめし！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_horror_2024/event_horror_2024.webp",
+      "sha256": "eec0d6dd984d0602023a0861d36b1fa44dd95790cf6a840191ed83638580c239",
+      "bytes": 24752
+    },
+    {
+      "path": "image/story/event/event_story_49.webp",
+      "eventId": 142,
+      "title": "鍛えてFLY！Muscle Training！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_muscle_2024/event_muscle_2024.webp",
+      "sha256": "80119f8bdf94b966e32658fc1bf2832079e8ad648b399a4d2934ca4333b5b36a",
+      "bytes": 22300
+    },
+    {
+      "path": "image/story/event/event_story_50.webp",
+      "eventId": 144,
+      "title": "想いをのせて！Dream Stage",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_dreamstage_2024/event_dreamstage_2024.webp",
+      "sha256": "2130262acbbe62f8c3ef073cf11fb6c8caad7e5b8ae71874555cbf86adc9d909",
+      "bytes": 23774
+    },
+    {
+      "path": "image/story/event/event_story_51.webp",
+      "eventId": 148,
+      "title": "また、木の葉の色づく頃に",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_foliage_2024/event_foliage_2024.webp",
+      "sha256": "fcff7c4fe8795655a4b63893a83aff52e0dccc79cad6d7d270063c31c08b2960",
+      "bytes": 20168
+    },
+    {
+      "path": "image/story/event/event_story_52.webp",
+      "eventId": 152,
+      "title": "Special present for YOU！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_specialpresent_2024/event_specialpresent_2024.webp",
+      "sha256": "139458b3b1d1de3ab0b6684667b7ced14bc349479998d79176e84e2ec6b6cdfb",
+      "bytes": 19286
+    },
+    {
+      "path": "image/story/event/event_story_53.webp",
+      "eventId": 153,
+      "title": "Unfading wishing",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_unfading_2024/event_unfading_2024.webp",
+      "sha256": "dbde9cda130bc34fecc394e846c9cd1fdbc40e2542aa116c39b980c9afa98a17",
+      "bytes": 18064
+    },
+    {
+      "path": "image/story/event/event_story_54.webp",
+      "eventId": 155,
+      "title": "Show your shine",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_yourshine_2025/event_yourshine_2025.webp",
+      "sha256": "565b9c7ea4b096ac54ccf14f8e2d6ab29b8e91c0457f320637913c96aa172545",
+      "bytes": 18372
+    },
+    {
+      "path": "image/story/event/event_story_55.webp",
+      "eventId": 156,
+      "title": "このひと針に想いを込めて",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_needle_2025/event_needle_2025.webp",
+      "sha256": "6182c7f57f874512e125913908e3f88dde3ee1377bd79d71d7800723d46cc96f",
+      "bytes": 19764
+    },
+    {
+      "path": "image/story/event/event_story_56.webp",
+      "eventId": 158,
+      "title": "昔日のRead-aloud",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_readaloud_2025/event_readaloud_2025.webp",
+      "sha256": "5d3085814e0ed60c706cbb8a922600b85851418213d0c448a6c0d773f11940ad",
+      "bytes": 17974
+    },
+    {
+      "path": "image/story/event/event_story_57.webp",
+      "eventId": 159,
+      "title": "Connect hearts message",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_heartsmessage_2025/event_heartsmessage_2025.webp",
+      "sha256": "2f5deb3ca8a5203cb0da2ee56fed22876355ab3bfe073a1697b26ad1eb797bf9",
+      "bytes": 21846
+    },
+    {
+      "path": "image/story/event/event_story_58.webp",
+      "eventId": 160,
+      "title": "You are my HERO!!",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_myhero_2025/event_myhero_2025.webp",
+      "sha256": "cb9af7a9731f2bbbbd27c85cc84455d4818050c9367a4c3cc5089a17a928a64a",
+      "bytes": 20584
+    },
+    {
+      "path": "image/story/event/event_story_59.webp",
+      "eventId": 179,
+      "title": "Link the Beats！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wl_2nd_piapro_2025/event_wl_2nd_piapro_2025.webp",
+      "sha256": "e0bdd072f4a1f5c866d3802f8516414231049fd7da51467f381c5c520353a521",
+      "bytes": 13726
+    },
+    {
+      "path": "image/story/event/event_story_60.webp",
+      "eventId": 180,
+      "title": "Wishes in Bloom！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wl_2nd_finale_2025/event_wl_2nd_finale_2025.webp",
+      "sha256": "52348869f5069a48c5ec1e935d192f8a401907c47ae5ef27e307d3bf58908fab",
+      "bytes": 14888
+    },
+    {
+      "path": "image/story/event/event_story_61.webp",
+      "eventId": 181,
+      "title": "Our Golden Days",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_golden_2025/event_golden_2025.webp",
+      "sha256": "1a053129cd20b86a6339fc55aa98ed77b9ad419480c5b21140462ce5c2c7bd76",
+      "bytes": 21138
+    },
+    {
+      "path": "image/story/event/event_story_62.webp",
+      "eventId": 189,
+      "title": "ともに、トゥルールートを目指して",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_trueroute_2025/event_trueroute_2025.webp",
+      "sha256": "0cf1dda0abaade8eb52bb641bcd47af20e9c0aa7f46b2b1bdf89a2711b797de5",
+      "bytes": 17532
+    },
+    {
+      "path": "image/story/event/event_story_63.webp",
+      "eventId": 191,
+      "title": "新年言祝ぐ、祈りの舞",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_celebrate_2025/event_celebrate_2025.webp",
+      "sha256": "37b54758e31d4109ffa86581774ff31b3523d29e7a1f1e634f17d7571f1437f9",
+      "bytes": 24862
+    },
+    {
+      "path": "image/story/event/event_story_64.webp",
+      "eventId": 194,
+      "title": "粉砕せよ！アンヴァレンタインの復讐",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_revenge_2026/event_revenge_2026.webp",
+      "sha256": "b554bb8dddd1ca58a53ee6f2f4c78763b300ed8c6a609de9d986267c1f516e7f",
+      "bytes": 27322
+    },
+    {
+      "path": "image/story/event/event_story_65.webp",
+      "eventId": 197,
+      "title": "悪夢の庭を歌い明かして",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_nightmare_2026/event_nightmare_2026.webp",
+      "sha256": "d13c083b195a3d1b897be7cb95eb163733094a8bec758a502278ce2effc8a178",
+      "bytes": 21428
+    },
+    {
+      "path": "image/story/event/event_story_66.webp",
+      "eventId": 202,
+      "title": "約束のPasserelle",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wl_3rd_part1_2026/event_wl_3rd_part1_2026.webp",
+      "sha256": "1c6fdfca836b62eb32bcdd53f849978ce8c2fcb7e2a0a13e4e1be64012c33200",
+      "bytes": 14166
+    },
+    {
+      "path": "image/story/event/event_story_67.webp",
+      "eventId": 205,
+      "title": "Great Yell for Dreamers！",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wl_3rd_part2_2026/event_wl_3rd_part2_2026.webp",
+      "sha256": "9bb69008a0f1c9da1eb8ecc10d1bd4eb15cf047a652b1dc2dc9dec350ef6e9d0",
+      "bytes": 17988
+    },
+    {
+      "path": "image/story/event/event_story_68.webp",
+      "eventId": 206,
+      "title": "最果てへと飛ぶキミへ",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_edge_2026/event_edge_2026.webp",
+      "sha256": "a8540f1d63313a71d8db564c8482aa550494941ec1e1f3191f1c052c4d656cb1",
+      "bytes": 20610
+    },
+    {
+      "path": "image/story/event/event_story_69.webp",
+      "eventId": 207,
+      "title": "Into the New Light",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wl_3rd_part3_2026/event_wl_3rd_part3_2026.webp",
+      "sha256": "98adacec41121354660dff9ae1ff5926dbb284d524af322e30f9b5bdcb74650e",
+      "bytes": 15444
+    },
+    {
+      "path": "image/story/event/event_story_70.webp",
+      "eventId": 211,
+      "title": "君の隣、君と見る明日",
+      "upstream": "https://storage.sekai.best/sekai-jp-assets/home/banner/event_wl_3rd_part4_2026/event_wl_3rd_part4_2026.webp",
+      "sha256": "dd5d2180b50073a08d69daf3157cce98722d238fe53002c6a0f180164cb90e3e",
+      "bytes": 15908
+    },
+    {
+      "path": "image/default/pjsk-4th-jp.png",
+      "upstream": "https://pjsekai.sega.jp/4th/assets/images/common/ogp.png",
+      "sha256": "ba8cf38fe7bdfd3170e21d8648502f226445221848241f71f5a9868e5694592f",
+      "note": "Unmodified official Japanese fourth-anniversary key visual; replaces both Chinese-logo defaults at the URL reference."
+    }
+  ]
+}

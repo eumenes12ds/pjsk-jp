@@ -1,0 +1,427 @@
+{
+  "direct": [
+    {
+      "upstream": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.4.0/css/all.min.css",
+      "path": "vendor/font-awesome/6.4.0/css/all.min.css",
+      "bytes": 102025,
+      "sha256": "1edb1725a9ea8ca4dcf2f5508cee183218aa1685e47c1b23056717f754f58ebf",
+      "mime": "text/plain; charset=utf-8"
+    },
+    {
+      "upstream": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.4.0/webfonts/fa-brands-400.woff2",
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-brands-400.woff2",
+      "bytes": 108028,
+      "sha256": "6046773110671e0319f2e6a8fdfc2405fe93e72f89013e6bbe683407669547c2",
+      "mime": "application/octet-stream"
+    },
+    {
+      "upstream": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.4.0/webfonts/fa-brands-400.ttf",
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-brands-400.ttf",
+      "bytes": 187208,
+      "sha256": "0af27779ab0595092e0dd49f760e7d7964a5b056ebfa36d25c5b659ed92acda6",
+      "mime": "application/octet-stream"
+    },
+    {
+      "upstream": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.4.0/webfonts/fa-regular-400.woff2",
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-regular-400.woff2",
+      "bytes": 24948,
+      "sha256": "2a5d977992381bdfdbfaebc38bb30eb097958d4818a8849479841db196a95842",
+      "mime": "application/octet-stream"
+    },
+    {
+      "upstream": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.4.0/webfonts/fa-regular-400.ttf",
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-regular-400.ttf",
+      "bytes": 63952,
+      "sha256": "cf68b232cc2177512964a627fc5a5e48f821384012d7d6d78edf36afa6f9e6f1",
+      "mime": "application/octet-stream"
+    },
+    {
+      "upstream": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.4.0/webfonts/fa-solid-900.woff2",
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-solid-900.woff2",
+      "bytes": 150124,
+      "sha256": "b2680383b9f3e1cc1c3036db49f3c18b0ab36091314d4ffdf82a7a11baf03080",
+      "mime": "application/octet-stream"
+    },
+    {
+      "upstream": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.4.0/webfonts/fa-solid-900.ttf",
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-solid-900.ttf",
+      "bytes": 394628,
+      "sha256": "6b8212905b6fa79dc7c0d89523b90966b35dafcf07e48949705f646c92bfe046",
+      "mime": "application/octet-stream"
+    },
+    {
+      "upstream": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.4.0/webfonts/fa-v4compatibility.woff2",
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2",
+      "bytes": 4568,
+      "sha256": "e4bee1441f3562172f836036edd019dc7cc0cb34ffa7cb9a062310b5c9506c2b",
+      "mime": "application/octet-stream"
+    },
+    {
+      "upstream": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.4.0/webfonts/fa-v4compatibility.ttf",
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf",
+      "bytes": 10172,
+      "sha256": "d7f2a0f0aefcfae9d2c937dd6bbf9aad3aeba0681c12ca34db3f06e25e18b405",
+      "mime": "application/octet-stream"
+    },
+    {
+      "upstream": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.4.0/LICENSE.txt",
+      "path": "vendor/font-awesome/6.4.0/LICENSE.txt",
+      "bytes": 7427,
+      "sha256": "0aa8f86525273b2efa4f40f4272a188e187704252170e979dc06879adf68d43c",
+      "mime": "text/plain; charset=utf-8"
+    },
+    {
+      "upstream": "https://raw.githubusercontent.com/eumenes12ds/MagVarUpdate/v1.0.0/artifact/bundle.js",
+      "path": "vendor/MagVarUpdate/v1.0.0/bundle.js",
+      "bytes": 307535,
+      "sha256": "3b510787a95c7a51523dcbbb2beff5f13b3bd069abf973dec1fdb1f21eeea61f",
+      "mime": "text/plain; charset=utf-8"
+    }
+  ],
+  "modules": [
+    {
+      "upstream": "https://raw.githubusercontent.com/eumenes12ds/MagVarUpdate/v1.0.0/artifact/bundle.js",
+      "version": null,
+      "path": "vendor/MagVarUpdate/v1.0.0/bundle.js",
+      "upstreamSha256": "3b510787a95c7a51523dcbbb2beff5f13b3bd069abf973dec1fdb1f21eeea61f",
+      "sha256": "1167535662d7b489e4e35f692e35acbef0e9318366ffabe1fe91a34c35d4cd89",
+      "bytes": 307437,
+      "imports": [
+        "vendor/npm/klona/2.0.6/bbebd2a5b2.js",
+        "vendor/npm/_intlify_core-base/11.4.12/857ab6a12a.js",
+        "vendor/npm/_intlify_shared/11.4.12/73fefb391a.js",
+        "vendor/npm/compare-versions/6.1.1/83b186a3f9.js",
+        "vendor/npm/json5/2.2.3/4067dc802d.js",
+        "vendor/npm/jsonrepair/3.15.0/3c7c779236.js",
+        "vendor/npm/mathjs/15.2.0/736ffcf817.js"
+      ]
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/klona/+esm",
+      "version": "2.0.6",
+      "path": "vendor/npm/klona/2.0.6/bbebd2a5b2.js",
+      "upstreamSha256": "e6bb95d703905b5d1eed18561ba26568159f383f4b1f7a351de864c26ce8366b",
+      "sha256": "56d1d835d648f09fcbb1bbb9b4c9e363cacf9cd6e70d1b578da6c29ca6cc7582",
+      "bytes": 1153,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/@intlify/core-base/+esm",
+      "version": "11.4.12",
+      "path": "vendor/npm/_intlify_core-base/11.4.12/857ab6a12a.js",
+      "upstreamSha256": "55c8e4fb17deaa1390b1d67ba4ff3f069cdb38bb7db9f8d1be627a0a1199f38c",
+      "sha256": "52d4c7d1bd33a6a74d77ff66b2b20d5f4b054d6d48fcf9b1019f6efd71649a21",
+      "bytes": 19204,
+      "imports": [
+        "vendor/npm/_intlify_shared/11.4.12/297996712f.js",
+        "vendor/npm/_intlify_message-compiler/11.4.12/f7a84aaa90.js",
+        "vendor/npm/_intlify_message-compiler/11.4.12/f7a84aaa90.js"
+      ]
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/@intlify/shared/+esm",
+      "version": "11.4.12",
+      "path": "vendor/npm/_intlify_shared/11.4.12/73fefb391a.js",
+      "upstreamSha256": "96d7a40d7aaff3ca2860b4977bdcdd6e95c35ec89aed10a439c5ce801466e9e3",
+      "sha256": "23a5cbb56938431502388c320dccdd30daa5378641fdd86c95cf89a93027c72a",
+      "bytes": 5162,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/compare-versions/+esm",
+      "version": "6.1.1",
+      "path": "vendor/npm/compare-versions/6.1.1/83b186a3f9.js",
+      "upstreamSha256": "72aca95e36fb70155e5f43546fe668c010fe82fd13e5a45d39427b26fed0a6f6",
+      "sha256": "9c562db00d33108ea99e755e29bc20d8e9f72bb18f6b0b5938f5eeedb52e260f",
+      "bytes": 2377,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/json5/+esm",
+      "version": "2.2.3",
+      "path": "vendor/npm/json5/2.2.3/4067dc802d.js",
+      "upstreamSha256": "39805a3d9701b8ed20e892ccf86223f928382aa17edfc2361e6c5c76a473d3b2",
+      "sha256": "1f146fe23a4db0e8d6be2638d67b1d78492028e7c8c487504c01e0849fcfaa1e",
+      "bytes": 27327,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/jsonrepair/+esm",
+      "version": "3.15.0",
+      "path": "vendor/npm/jsonrepair/3.15.0/3c7c779236.js",
+      "upstreamSha256": "d74e6d2d78d2b12a8b32482657f5efa7691d09534551eb700a32ee741ffba362",
+      "sha256": "c3d7c68491b85903a2a5fbfc846a7cff46a5a9435bf43a3e164e743517f8d269",
+      "bytes": 8231,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/mathjs/+esm",
+      "version": "15.2.0",
+      "path": "vendor/npm/mathjs/15.2.0/736ffcf817.js",
+      "upstreamSha256": "e4f96c41f285c679208828138f3d19a5a0bc364dac729078516029aa998c7dd7",
+      "sha256": "beb4095c3492086f29d35160f80cbd30b5a46f99c67eb89e82d245f06eedb4b8",
+      "bytes": 666468,
+      "imports": [
+        "vendor/npm/_babel_runtime/7.29.2/bf80c6b002.js",
+        "vendor/npm/typed-function/4.2.2/b922ce65cd.js",
+        "vendor/npm/decimal.js/10.6.0/4d80640c12.js",
+        "vendor/npm/complex.js/2.4.3/35f968ba57.js",
+        "vendor/npm/fraction.js/5.3.4/2c735a2ad9.js",
+        "vendor/npm/_babel_runtime/7.29.2/6f3c58f849.js",
+        "vendor/npm/javascript-natural-sort/0.7.1/80e5a7b4c0.js",
+        "vendor/npm/escape-latex/1.2.0/11b53fec3c.js",
+        "vendor/npm/seedrandom/3.0.5/aab5c8a1fb.js",
+        "vendor/npm/tiny-emitter/2.1.0/e38d2d8ba4.js"
+      ]
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/@intlify/shared@11.4.12/+esm",
+      "version": "11.4.12",
+      "path": "vendor/npm/_intlify_shared/11.4.12/297996712f.js",
+      "upstreamSha256": "96d7a40d7aaff3ca2860b4977bdcdd6e95c35ec89aed10a439c5ce801466e9e3",
+      "sha256": "23a5cbb56938431502388c320dccdd30daa5378641fdd86c95cf89a93027c72a",
+      "bytes": 5162,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/@intlify/message-compiler@11.4.12/+esm",
+      "version": "11.4.12",
+      "path": "vendor/npm/_intlify_message-compiler/11.4.12/f7a84aaa90.js",
+      "upstreamSha256": "633060db9fb3a320f7f3346a92c7f7b286d7f205df42863168691520afc0e838",
+      "sha256": "afa49031d6153c50067704c35c83eed260421e9c14089a8ed68a9e57e5ce5410",
+      "bytes": 18552,
+      "imports": [
+        "vendor/npm/_intlify_shared/11.4.12/297996712f.js"
+      ]
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/@babel/runtime@7.29.2/helpers/extends/+esm",
+      "version": "7.29.2",
+      "path": "vendor/npm/_babel_runtime/7.29.2/bf80c6b002.js",
+      "upstreamSha256": "ec0d3fce0e9fd17f25cea2126048308d34bc56cd8674f2d307cf2e59bb1cd303",
+      "sha256": "c80134051c863d91cc01952fb1a4fc8420260dc171165fd32ceba327d6febfb2",
+      "bytes": 506,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/typed-function@4.2.2/+esm",
+      "version": "4.2.2",
+      "path": "vendor/npm/typed-function/4.2.2/b922ce65cd.js",
+      "upstreamSha256": "905f3c6ff45d4afe2ac5fa070f154de730f43bace994219624e167eab4030498",
+      "sha256": "b7056e04120fd5031434400ccb9d4c861aeb95ac0f5f50b83f3aacf22ee779a1",
+      "bytes": 17682,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/decimal.js@10.6.0/+esm",
+      "version": "10.6.0",
+      "path": "vendor/npm/decimal.js/10.6.0/4d80640c12.js",
+      "upstreamSha256": "a969cf2e76c317b9daf06d5277bdbb0bda6a3c81003665ce50ae2a93dfbbdfaa",
+      "sha256": "6b51c1c05bb3361472084b0ca4f096611a010a76ae2c78be6efbac4e848f1d55",
+      "bytes": 32660,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/complex.js@2.4.3/+esm",
+      "version": "2.4.3",
+      "path": "vendor/npm/complex.js/2.4.3/35f968ba57.js",
+      "upstreamSha256": "b8ff2754901e80d9fed82fdbb2e880da45c8df96152f2ac1c976190f31a7b865",
+      "sha256": "f4904f239d9220ed850ba8bd9b5e886d8774fdbefeadd1cb9b949a96c6dff78e",
+      "bytes": 9791,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/fraction.js@5.3.4/+esm",
+      "version": "5.3.4",
+      "path": "vendor/npm/fraction.js/5.3.4/2c735a2ad9.js",
+      "upstreamSha256": "8d8064193de7ee5c75b91a57f7afdecb3f14c2fd4d06f5381e865ef627dda9d8",
+      "sha256": "0f84383e891a4f026afaa4d949a86220aaf7bf56575848f9446e13d69383bff6",
+      "bytes": 7092,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/@babel/runtime@7.29.2/helpers/defineProperty/+esm",
+      "version": "7.29.2",
+      "path": "vendor/npm/_babel_runtime/7.29.2/6f3c58f849.js",
+      "upstreamSha256": "e649731e0a92c66ba755fccfe9825af9209cbd06907e302a0d449433190f66b4",
+      "sha256": "51656efb227c65472d42a18e0516fd320125c5ea3107c5153e442378dca4dd50",
+      "bytes": 982,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/javascript-natural-sort@0.7.1/+esm",
+      "version": "0.7.1",
+      "path": "vendor/npm/javascript-natural-sort/0.7.1/80e5a7b4c0.js",
+      "upstreamSha256": "8c35c7db497edbd016a087f02e65118f4c07e75ab1785561cf78de6446f6a3f9",
+      "sha256": "d66f0f83cdcaec87e28a4410acc090a4b0804072f75c1e4002d55a5511e8a439",
+      "bytes": 1301,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/escape-latex@1.2.0/+esm",
+      "version": "1.2.0",
+      "path": "vendor/npm/escape-latex/1.2.0/11b53fec3c.js",
+      "upstreamSha256": "2f53a679867f4ab8eae49b93671bd7ef11e39027808a8ad4b2fea783d3064eda",
+      "sha256": "8b951af89eddcac0391bce9571df46b528f904ad1f0abe1768ebabe6b2303757",
+      "bytes": 1205,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/seedrandom@3.0.5/+esm",
+      "version": "3.0.5",
+      "path": "vendor/npm/seedrandom/3.0.5/aab5c8a1fb.js",
+      "upstreamSha256": "bff06d8dbe428efed7c3f061399890de74b6afddab70344e4b68a95055744d48",
+      "sha256": "31bccf44c7f82c2034e2144f3825c1b3837715fad6f4857b7be8ca4c11d34bda",
+      "bytes": 8174,
+      "imports": []
+    },
+    {
+      "upstream": "https://testingcf.jsdelivr.net/npm/tiny-emitter@2.1.0/+esm",
+      "version": "2.1.0",
+      "path": "vendor/npm/tiny-emitter/2.1.0/e38d2d8ba4.js",
+      "upstreamSha256": "0a23e30943430ad037b6b144f01d6fcb6fb38c8eff8610dcfa1354e274f0c9ae",
+      "sha256": "ace256cfcb60e0b1ea695431675ccce173bd11ccb3bdd0ae033045f248e5d8f0",
+      "bytes": 1022,
+      "imports": []
+    }
+  ],
+  "licenses": [
+    {
+      "name": "klona",
+      "version": "2.0.6",
+      "license": "MIT",
+      "files": [
+        "licenses/klona/2.0.6/package_license"
+      ]
+    },
+    {
+      "name": "@intlify/core-base",
+      "version": "11.4.12",
+      "license": "MIT",
+      "files": [
+        "licenses/_intlify_core-base/11.4.12/package_LICENSE"
+      ]
+    },
+    {
+      "name": "@intlify/shared",
+      "version": "11.4.12",
+      "license": "MIT",
+      "files": [
+        "licenses/_intlify_shared/11.4.12/package_LICENSE"
+      ]
+    },
+    {
+      "name": "compare-versions",
+      "version": "6.1.1",
+      "license": "MIT",
+      "files": [
+        "licenses/compare-versions/6.1.1/package_LICENSE"
+      ]
+    },
+    {
+      "name": "json5",
+      "version": "2.2.3",
+      "license": "MIT",
+      "files": [
+        "licenses/json5/2.2.3/package_LICENSE.md"
+      ]
+    },
+    {
+      "name": "jsonrepair",
+      "version": "3.15.0",
+      "license": "ISC",
+      "files": [
+        "licenses/jsonrepair/3.15.0/package_LICENSE.md"
+      ]
+    },
+    {
+      "name": "mathjs",
+      "version": "15.2.0",
+      "license": "Apache-2.0",
+      "files": [
+        "licenses/mathjs/15.2.0/package_LICENSE",
+        "licenses/mathjs/15.2.0/package_NOTICE"
+      ]
+    },
+    {
+      "name": "@intlify/message-compiler",
+      "version": "11.4.12",
+      "license": "MIT",
+      "files": [
+        "licenses/_intlify_message-compiler/11.4.12/package_LICENSE"
+      ]
+    },
+    {
+      "name": "@babel/runtime",
+      "version": "7.29.2",
+      "license": "MIT",
+      "files": [
+        "licenses/_babel_runtime/7.29.2/package_LICENSE"
+      ]
+    },
+    {
+      "name": "typed-function",
+      "version": "4.2.2",
+      "license": "MIT",
+      "files": [
+        "licenses/typed-function/4.2.2/package_LICENSE"
+      ]
+    },
+    {
+      "name": "decimal.js",
+      "version": "10.6.0",
+      "license": "MIT",
+      "files": [
+        "licenses/decimal.js/10.6.0/package_LICENCE.md"
+      ]
+    },
+    {
+      "name": "complex.js",
+      "version": "2.4.3",
+      "license": "MIT",
+      "files": [
+        "licenses/complex.js/2.4.3/package_LICENSE"
+      ]
+    },
+    {
+      "name": "fraction.js",
+      "version": "5.3.4",
+      "license": "MIT",
+      "files": [
+        "licenses/fraction.js/5.3.4/package_LICENSE"
+      ]
+    },
+    {
+      "name": "escape-latex",
+      "version": "1.2.0",
+      "license": "MIT",
+      "files": [
+        "licenses/escape-latex/1.2.0/package_LICENSE.md"
+      ]
+    },
+    {
+      "name": "javascript-natural-sort",
+      "version": "0.7.1",
+      "license": "MIT",
+      "files": [
+        "licenses/javascript-natural-sort/0.7.1/upstream-notice-and-source.js"
+      ]
+    },
+    {
+      "name": "seedrandom",
+      "version": "3.0.5",
+      "license": "MIT",
+      "files": [
+        "licenses/seedrandom/3.0.5/upstream-license-notice-and-source.txt"
+      ]
+    },
+    {
+      "name": "tiny-emitter",
+      "version": "2.1.0",
+      "license": "MIT",
+      "files": [
+        "licenses/tiny-emitter/2.1.0/package_LICENSE"
+      ]
+    }
+  ]
+}

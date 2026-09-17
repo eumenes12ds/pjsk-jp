@@ -1,0 +1,340 @@
+{
+  "release": "v2026.09.17.1",
+  "files": [
+    {
+      "path": "vendor/font-awesome/6.4.0/css/all.min.css",
+      "sha256": "1edb1725a9ea8ca4dcf2f5508cee183218aa1685e47c1b23056717f754f58ebf",
+      "bytes": 102025
+    },
+    {
+      "path": "vendor/font-awesome/6.4.0/LICENSE.txt",
+      "sha256": "0aa8f86525273b2efa4f40f4272a188e187704252170e979dc06879adf68d43c",
+      "bytes": 7427
+    },
+    {
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-brands-400.ttf",
+      "sha256": "0af27779ab0595092e0dd49f760e7d7964a5b056ebfa36d25c5b659ed92acda6",
+      "bytes": 187208
+    },
+    {
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-brands-400.woff2",
+      "sha256": "6046773110671e0319f2e6a8fdfc2405fe93e72f89013e6bbe683407669547c2",
+      "bytes": 108028
+    },
+    {
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-regular-400.ttf",
+      "sha256": "cf68b232cc2177512964a627fc5a5e48f821384012d7d6d78edf36afa6f9e6f1",
+      "bytes": 63952
+    },
+    {
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-regular-400.woff2",
+      "sha256": "2a5d977992381bdfdbfaebc38bb30eb097958d4818a8849479841db196a95842",
+      "bytes": 24948
+    },
+    {
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-solid-900.ttf",
+      "sha256": "6b8212905b6fa79dc7c0d89523b90966b35dafcf07e48949705f646c92bfe046",
+      "bytes": 394628
+    },
+    {
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-solid-900.woff2",
+      "sha256": "b2680383b9f3e1cc1c3036db49f3c18b0ab36091314d4ffdf82a7a11baf03080",
+      "bytes": 150124
+    },
+    {
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf",
+      "sha256": "d7f2a0f0aefcfae9d2c937dd6bbf9aad3aeba0681c12ca34db3f06e25e18b405",
+      "bytes": 10172
+    },
+    {
+      "path": "vendor/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2",
+      "sha256": "e4bee1441f3562172f836036edd019dc7cc0cb34ffa7cb9a062310b5c9506c2b",
+      "bytes": 4568
+    },
+    {
+      "path": "vendor/MagVarUpdate/v1.0.0/bundle.js",
+      "sha256": "1167535662d7b489e4e35f692e35acbef0e9318366ffabe1fe91a34c35d4cd89",
+      "bytes": 307437
+    },
+    {
+      "path": "vendor/MagVarUpdate/v1.0.0/bundle.js.LICENSE.txt",
+      "sha256": "0269008f285ff9108c0cde1666766b1ee62a94f9059f1a7c3747e85933b5cdd8",
+      "bytes": 107
+    },
+    {
+      "path": "vendor/MagVarUpdate/v1.0.0/LICENSE",
+      "sha256": "47f7767a9980ac6664216671b531088a796df557a6bdffd23f4d8bac6af73c55",
+      "bytes": 1070
+    },
+    {
+      "path": "vendor/npm/compare-versions/6.1.1/83b186a3f9.js",
+      "sha256": "9c562db00d33108ea99e755e29bc20d8e9f72bb18f6b0b5938f5eeedb52e260f",
+      "bytes": 2377
+    },
+    {
+      "path": "vendor/npm/complex.js/2.4.3/35f968ba57.js",
+      "sha256": "f4904f239d9220ed850ba8bd9b5e886d8774fdbefeadd1cb9b949a96c6dff78e",
+      "bytes": 9791
+    },
+    {
+      "path": "vendor/npm/decimal.js/10.6.0/4d80640c12.js",
+      "sha256": "6b51c1c05bb3361472084b0ca4f096611a010a76ae2c78be6efbac4e848f1d55",
+      "bytes": 32660
+    },
+    {
+      "path": "vendor/npm/escape-latex/1.2.0/11b53fec3c.js",
+      "sha256": "8b951af89eddcac0391bce9571df46b528f904ad1f0abe1768ebabe6b2303757",
+      "bytes": 1205
+    },
+    {
+      "path": "vendor/npm/fraction.js/5.3.4/2c735a2ad9.js",
+      "sha256": "0f84383e891a4f026afaa4d949a86220aaf7bf56575848f9446e13d69383bff6",
+      "bytes": 7092
+    },
+    {
+      "path": "vendor/npm/javascript-natural-sort/0.7.1/80e5a7b4c0.js",
+      "sha256": "d66f0f83cdcaec87e28a4410acc090a4b0804072f75c1e4002d55a5511e8a439",
+      "bytes": 1301
+    },
+    {
+      "path": "vendor/npm/json5/2.2.3/4067dc802d.js",
+      "sha256": "1f146fe23a4db0e8d6be2638d67b1d78492028e7c8c487504c01e0849fcfaa1e",
+      "bytes": 27327
+    },
+    {
+      "path": "vendor/npm/jsonrepair/3.15.0/3c7c779236.js",
+      "sha256": "c3d7c68491b85903a2a5fbfc846a7cff46a5a9435bf43a3e164e743517f8d269",
+      "bytes": 8231
+    },
+    {
+      "path": "vendor/npm/klona/2.0.6/bbebd2a5b2.js",
+      "sha256": "56d1d835d648f09fcbb1bbb9b4c9e363cacf9cd6e70d1b578da6c29ca6cc7582",
+      "bytes": 1153
+    },
+    {
+      "path": "vendor/npm/mathjs/15.2.0/736ffcf817.js",
+      "sha256": "beb4095c3492086f29d35160f80cbd30b5a46f99c67eb89e82d245f06eedb4b8",
+      "bytes": 666468
+    },
+    {
+      "path": "vendor/npm/seedrandom/3.0.5/aab5c8a1fb.js",
+      "sha256": "31bccf44c7f82c2034e2144f3825c1b3837715fad6f4857b7be8ca4c11d34bda",
+      "bytes": 8174
+    },
+    {
+      "path": "vendor/npm/tiny-emitter/2.1.0/e38d2d8ba4.js",
+      "sha256": "ace256cfcb60e0b1ea695431675ccce173bd11ccb3bdd0ae033045f248e5d8f0",
+      "bytes": 1022
+    },
+    {
+      "path": "vendor/npm/typed-function/4.2.2/b922ce65cd.js",
+      "sha256": "b7056e04120fd5031434400ccb9d4c861aeb95ac0f5f50b83f3aacf22ee779a1",
+      "bytes": 17682
+    },
+    {
+      "path": "vendor/npm/_babel_runtime/7.29.2/6f3c58f849.js",
+      "sha256": "51656efb227c65472d42a18e0516fd320125c5ea3107c5153e442378dca4dd50",
+      "bytes": 982
+    },
+    {
+      "path": "vendor/npm/_babel_runtime/7.29.2/bf80c6b002.js",
+      "sha256": "c80134051c863d91cc01952fb1a4fc8420260dc171165fd32ceba327d6febfb2",
+      "bytes": 506
+    },
+    {
+      "path": "vendor/npm/_intlify_core-base/11.4.12/857ab6a12a.js",
+      "sha256": "52d4c7d1bd33a6a74d77ff66b2b20d5f4b054d6d48fcf9b1019f6efd71649a21",
+      "bytes": 19204
+    },
+    {
+      "path": "vendor/npm/_intlify_message-compiler/11.4.12/f7a84aaa90.js",
+      "sha256": "afa49031d6153c50067704c35c83eed260421e9c14089a8ed68a9e57e5ce5410",
+      "bytes": 18552
+    },
+    {
+      "path": "vendor/npm/_intlify_shared/11.4.12/297996712f.js",
+      "sha256": "23a5cbb56938431502388c320dccdd30daa5378641fdd86c95cf89a93027c72a",
+      "bytes": 5162
+    },
+    {
+      "path": "vendor/npm/_intlify_shared/11.4.12/73fefb391a.js",
+      "sha256": "23a5cbb56938431502388c320dccdd30daa5378641fdd86c95cf89a93027c72a",
+      "bytes": 5162
+    },
+    {
+      "path": "licenses/compare-versions/6.1.1/package.json",
+      "sha256": "22618707686c3610545ecd70d7be66a6231cac5aacf6838be73c46f60205ef74",
+      "bytes": 741
+    },
+    {
+      "path": "licenses/compare-versions/6.1.1/package_LICENSE",
+      "sha256": "4c247e0dce60c6a29332afa80ba7d81243e7045b0e4b6e6e59e21fb5a1a7b5ab",
+      "bytes": 1085
+    },
+    {
+      "path": "licenses/complex.js/2.4.3/package.json",
+      "sha256": "17cbd480d64d8736fd106c925f85dc8bf11f0a762125e79b9388faea5b55ce07",
+      "bytes": 716
+    },
+    {
+      "path": "licenses/complex.js/2.4.3/package_LICENSE",
+      "sha256": "ea6916b674c353de0e9b84b9c91e3b3f8c620a1000d6a65662961b8a67840f19",
+      "bytes": 1070
+    },
+    {
+      "path": "licenses/decimal.js/10.6.0/package.json",
+      "sha256": "d97b25750ef471703c5ab3c3b4044592b6624c63559dd389f2ee7638b4762020",
+      "bytes": 716
+    },
+    {
+      "path": "licenses/decimal.js/10.6.0/package_LICENCE.md",
+      "sha256": "3108b546bcff5d346923a82f48b2d252ca722f9088076db6d145f6b67757ad6c",
+      "bytes": 1104
+    },
+    {
+      "path": "licenses/escape-latex/1.2.0/package.json",
+      "sha256": "aa6f52503f0f5a337e63d57786c79d512a657980b03f57df29cf28a63cd5d723",
+      "bytes": 1638
+    },
+    {
+      "path": "licenses/escape-latex/1.2.0/package_LICENSE.md",
+      "sha256": "8672a18c18ded3d723172d9af1b6b99fce4882b4518dfbb80c9a97da9abb7ccb",
+      "bytes": 1052
+    },
+    {
+      "path": "licenses/fraction.js/5.3.4/package.json",
+      "sha256": "9c285e64bbe97e27a9adebc08254be1fe892017ee976971f50eec16b06f346cf",
+      "bytes": 720
+    },
+    {
+      "path": "licenses/fraction.js/5.3.4/package_LICENSE",
+      "sha256": "ea6916b674c353de0e9b84b9c91e3b3f8c620a1000d6a65662961b8a67840f19",
+      "bytes": 1070
+    },
+    {
+      "path": "licenses/javascript-natural-sort/0.7.1/package.json",
+      "sha256": "d287a2fd334b9449a2e66b9a40032776a15ee58d7a7bc001865f00672bb902e0",
+      "bytes": 716
+    },
+    {
+      "path": "licenses/javascript-natural-sort/0.7.1/upstream-notice-and-source.js",
+      "sha256": "51dd07b518eb634af994706dd29954090b9781cd1d7784bb527283905336e0e0",
+      "bytes": 2098
+    },
+    {
+      "path": "licenses/json5/2.2.3/package.json",
+      "sha256": "df7bf6be84e72339ec7221b596f6a76fbfa0a42fa387f500efe263c75a36ed3a",
+      "bytes": 1669
+    },
+    {
+      "path": "licenses/json5/2.2.3/package_LICENSE.md",
+      "sha256": "53e59feb13058722d977c699eb0407c7bce2f93c949b681bbd2ff31698535927",
+      "bytes": 1145
+    },
+    {
+      "path": "licenses/jsonrepair/3.15.0/package.json",
+      "sha256": "df34560a65a140e0aeaf76374ce98fe2ece7c3ab2711ab03c336a3443c3e42f0",
+      "bytes": 719
+    },
+    {
+      "path": "licenses/jsonrepair/3.15.0/package_LICENSE.md",
+      "sha256": "fd50f5abb7eeb614c8d1293b9f239a5238d7536e3a9a9a8929a082c82d12b3fd",
+      "bytes": 740
+    },
+    {
+      "path": "licenses/klona/2.0.6/package.json",
+      "sha256": "cb04a493b676e760e40bd8f1a3388126d90083c84c521a55bddd4a7480837c90",
+      "bytes": 1669
+    },
+    {
+      "path": "licenses/klona/2.0.6/package_license",
+      "sha256": "9a9edad7baae52622bddf3c15b2ef8a33d2c89f2d25408ad13e8a7481c6b0c97",
+      "bytes": 1104
+    },
+    {
+      "path": "licenses/mathjs/15.2.0/package.json",
+      "sha256": "c053b996b20993851bc993936065052e5e325046eaf09a4d84aa94b9d4444b33",
+      "bytes": 713
+    },
+    {
+      "path": "licenses/mathjs/15.2.0/package_LICENSE",
+      "sha256": "3b0f65a9308588e12b619b2f05c788b4a5f41220006ce563b826b0feb489fd26",
+      "bytes": 10172
+    },
+    {
+      "path": "licenses/mathjs/15.2.0/package_NOTICE",
+      "sha256": "40e0c8aac7a769ef524e089b8ef75f81325ab7deca50def443b9b20d425e65b5",
+      "bytes": 629
+    },
+    {
+      "path": "licenses/seedrandom/3.0.5/package.json",
+      "sha256": "3920d17e4c10462b039eaaa154413e79153d12fd42ff90d71342967ed762b113",
+      "bytes": 1628
+    },
+    {
+      "path": "licenses/seedrandom/3.0.5/upstream-license-notice-and-source.txt",
+      "sha256": "9f821c9ede583e1c1f1d3263d6d016d13d562768de6c477d8262f7e8028a09cb",
+      "bytes": 3238
+    },
+    {
+      "path": "licenses/tiny-emitter/2.1.0/package.json",
+      "sha256": "67f0b3e836676679bfdede1e7e0856ffb0c9bfacd55b508cc26ee9081da13e38",
+      "bytes": 1644
+    },
+    {
+      "path": "licenses/tiny-emitter/2.1.0/package_LICENSE",
+      "sha256": "aada4c7da6a5be46beadf9d4f40d7dba9e222e57180d46289b2bb9112e65daae",
+      "bytes": 1080
+    },
+    {
+      "path": "licenses/typed-function/4.2.2/package.json",
+      "sha256": "bc4a41a1f833bd8298e305725a4139e4378cb15ada1de77156a21765bf33c68b",
+      "bytes": 732
+    },
+    {
+      "path": "licenses/typed-function/4.2.2/package_LICENSE",
+      "sha256": "0efa8c81fc2a1e8c668d49cdc60e48e9f2affdb3ee736462ace669ffe44a5dcf",
+      "bytes": 1083
+    },
+    {
+      "path": "licenses/_babel_runtime/7.29.2/package.json",
+      "sha256": "d9ce0b947b6869d9ce9ab4b30dd17e353989115cd08c8fc58b83970ca9fc8047",
+      "bytes": 755
+    },
+    {
+      "path": "licenses/_babel_runtime/7.29.2/package_LICENSE",
+      "sha256": "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76",
+      "bytes": 1106
+    },
+    {
+      "path": "licenses/_intlify_core-base/11.4.12/package.json",
+      "sha256": "4a594fceec18e0f116398a9e1c62dd7a4973db9ef0dc4c930b3a17fd45af1a08",
+      "bytes": 1179
+    },
+    {
+      "path": "licenses/_intlify_core-base/11.4.12/package_LICENSE",
+      "sha256": "403a4d6f9815ae33bd7a613202529f0805045c642f92a169fa673d7fa07dd568",
+      "bytes": 1083
+    },
+    {
+      "path": "licenses/_intlify_message-compiler/11.4.12/package.json",
+      "sha256": "c33ffe09590431679abc278d0c3c82897089c919519c5264ccc0ea466e0b0f64",
+      "bytes": 1219
+    },
+    {
+      "path": "licenses/_intlify_message-compiler/11.4.12/package_LICENSE",
+      "sha256": "403a4d6f9815ae33bd7a613202529f0805045c642f92a169fa673d7fa07dd568",
+      "bytes": 1083
+    },
+    {
+      "path": "licenses/_intlify_shared/11.4.12/package.json",
+      "sha256": "a6191d1c829b50df5c31285b396724bba125248f68aaa6462e6333a5250dc619",
+      "bytes": 1168
+    },
+    {
+      "path": "licenses/_intlify_shared/11.4.12/package_LICENSE",
+      "sha256": "403a4d6f9815ae33bd7a613202529f0805045c642f92a169fa673d7fa07dd568",
+      "bytes": 1083
+    }
+  ]
+}
